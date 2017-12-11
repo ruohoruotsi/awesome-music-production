@@ -6,6 +6,7 @@ A curated list of software and resources to create music.
 ## Audio Workstations
 
 - [Ableton]
+- [Ardour]
 - [Cubase]
 - [Garage Band]
 - [Logic Pro X]
@@ -13,11 +14,13 @@ A curated list of software and resources to create music.
 - [Reaper] - Complete digital audio production application for Windows and OS X.
 
 [Ableton]: https://ableton.com/live
+[Ardour]: https://ardour.org
 [Cubase]: http://steinberg.net/en/products/cubase
 [Garage Band]: https://apple.com/mac/garageband
 [Logic Pro X]: https://apple.com/logic-pro
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Reaper]: http://reaper.fm
+
 
 ## Hardware
 
