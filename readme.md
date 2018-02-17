@@ -36,6 +36,7 @@ A curated list of software and resources to create music.
 [Pocket Operators]: https://www.teenageengineering.com/products/po
 [LittleBits Synth Kit]: https://shop.littlebits.cc/products/synth-kit
 
+
 ### MIDI Controllers
 
 - [ROLI Blocks] - Portable snap-together MIDI controller with both desktop and mobile interfaces
@@ -43,6 +44,7 @@ A curated list of software and resources to create music.
 
 [ROLI Blocks]: https://roli.com/products/blocks/
 [MPK Mini mkII]: http://www.akaipro.com/products/keyboard-controllers/mpk-mini-mkii
+
 
 ## Software Libraries
 
@@ -53,6 +55,7 @@ A curated list of software and resources to create music.
 - [Klasma] - Chiptune music composition kit.
 - [Leipzig] - Composition library for Clojure and Clojurescript.
 - [Magenta] - Music and Art Generation with Machine Intelligence.
+- [Magiclock] - Feel MIDI clock beat via the magic trackpad.
 - [Music Suite] - Haskell based language for describing music.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Overtone] - Open Source toolkit for designing synthesizers and collaborating with music.
@@ -71,6 +74,7 @@ A curated list of software and resources to create music.
 [Klasma]: https://github.com/hdgarrood/klasma
 [Leipzig]: https://github.com/ctford/leipzig
 [Magenta]: https://magenta.tensorflow.org
+[Magiclock]: https://github.com/faroit/magiclock
 [Music Suite]: http://music-suite.github.io
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Overtone]: https://github.com/overtone/overtone
