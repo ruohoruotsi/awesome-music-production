@@ -61,6 +61,7 @@ A curated list of software and resources to create music.
 - [Tonal] - Functional music theory library.
 - [Tone.js] - A Web Audio framework for making interactive music in the browser.
 - [Tuna] - An audio effects library for the Web Audio API.
+- [VCV Rack] - Open source virtual modular synthesizer.
 
 [Alda]: https://github.com/alda-lang/alda
 [Aubio]: https://aubio.org
@@ -77,6 +78,7 @@ A curated list of software and resources to create music.
 [Tonal]: https://github.com/danigb/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
+[VCV Rack]: https://vcvrack.com
 
 
 ## Knowledge
