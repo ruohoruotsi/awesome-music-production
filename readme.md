@@ -50,6 +50,7 @@ A curated list of software and resources to create music.
 - [Aubio] - Segmentation, pitch detection, tapping the beat & producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Looping and sampling with the Web Audio API.
+- [Klasma] - Chiptune music composition kit.
 - [Leipzig] - Composition library for Clojure and Clojurescript.
 - [Magenta] - Music and Art Generation with Machine Intelligence.
 - [Music Suite] - Haskell based language for describing music.
@@ -67,6 +68,7 @@ A curated list of software and resources to create music.
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
+[Klasma]: https://github.com/hdgarrood/klasma
 [Leipzig]: https://github.com/ctford/leipzig
 [Magenta]: https://magenta.tensorflow.org
 [Music Suite]: http://music-suite.github.io
