@@ -53,9 +53,11 @@ A curated list of software and resources to create music.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Looping and sampling with the Web Audio API.
 - [Klasma] - Chiptune music composition kit.
+- [LickCreator] - Online web based music notation.
 - [Leipzig] - Composition library for Clojure and Clojurescript.
 - [Magenta] - Music and Art Generation with Machine Intelligence.
 - [Magiclock] - Feel MIDI clock beat via the magic trackpad.
+- [Microm] - Javascript library to convert browser microphone to mp3.
 - [Music Suite] - Haskell based language for describing music.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Overtone] - Open Source toolkit for designing synthesizers and collaborating with music.
@@ -66,15 +68,18 @@ A curated list of software and resources to create music.
 - [Tone.js] - A Web Audio framework for making interactive music in the browser.
 - [Tuna] - An audio effects library for the Web Audio API.
 - [VCV Rack] - Open source virtual modular synthesizer.
+- [Vexwarp] - JavaSCript library for audio time stretching and pitch shifting.
 
 [Alda]: https://github.com/alda-lang/alda
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
 [Klasma]: https://github.com/hdgarrood/klasma
+[LickCreator]: https://twitter.com/lickcreator
 [Leipzig]: https://github.com/ctford/leipzig
 [Magenta]: https://magenta.tensorflow.org
 [Magiclock]: https://github.com/faroit/magiclock
+[Microm]: https://github.com/zzarcon/microm
 [Music Suite]: http://music-suite.github.io
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Overtone]: https://github.com/overtone/overtone
@@ -85,6 +90,7 @@ A curated list of software and resources to create music.
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
 [VCV Rack]: https://vcvrack.com
+[Vexwarp]: https://github.com/0xfe/vexwarp
 
 
 ## Knowledge
