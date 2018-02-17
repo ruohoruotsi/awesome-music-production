@@ -52,6 +52,7 @@ A curated list of software and resources to create music.
 - [Blip] - Looping and sampling with the Web Audio API.
 - [Leipzig] - Composition library for Clojure and Clojurescript.
 - [Magenta] - Music and Art Generation with Machine Intelligence.
+- [Music Suite] - Haskell based language for describing music.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Overtone] - Open Source toolkit for designing synthesizers and collaborating with music.
 - [Sharp11] - Music theorization and improvisation engine.
@@ -66,6 +67,7 @@ A curated list of software and resources to create music.
 [Blip]: http://jshanley.github.io/blip
 [Leipzig]: https://github.com/ctford/leipzig
 [Magenta]: https://magenta.tensorflow.org
+[Music Suite]: http://music-suite.github.io
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Overtone]: https://github.com/overtone/overtone
 [Sharp11]: https://github.com/jsrmath/sharp11
@@ -73,6 +75,8 @@ A curated list of software and resources to create music.
 [Tonal]: https://github.com/danigb/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
+
+
 
 ## Knowledge
 
