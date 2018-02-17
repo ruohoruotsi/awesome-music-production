@@ -55,6 +55,7 @@ A curated list of software and resources to create music.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Overtone] - Open Source toolkit for designing synthesizers and collaborating with music.
 - [Sharp11] - Music theorization and improvisation engine.
+- [Teoria] - JavaScript library for music theory.
 - [Tonal] - Functional music theory library.
 - [Tone.js] - A Web Audio framework for making interactive music in the browser.
 - [Tuna] - An audio effects library for the Web Audio API.
@@ -68,6 +69,7 @@ A curated list of software and resources to create music.
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Overtone]: https://github.com/overtone/overtone
 [Sharp11]: https://github.com/jsrmath/sharp11
+[Teoria]: https://github.com/saebekassebil/teoria
 [Tonal]: https://github.com/danigb/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
