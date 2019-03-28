@@ -39,19 +39,24 @@ A curated list of software and resources to create music.
 
 ### MIDI Controllers
 
+- [LinnStrument] - Grid based expressive [MPE] controller.
 - [ROLI Blocks] - Portable snap-together MIDI controller with both desktop and mobile interfaces
 - [MPK Mini mkII] - Cheap, functional, excellent starter controller
 
+[LinnStrument]: http://www.rogerlinndesign.com/linnstrument.html
 [ROLI Blocks]: https://roli.com/products/blocks/
 [MPK Mini mkII]: http://www.akaipro.com/products/keyboard-controllers/mpk-mini-mkii
-
+[MPE]: https://roli.com/mpe
 
 ## Software Libraries
 
 - [Alda] - A music programming language for musicians.
-- [Aubio] - Segmentation, pitch detection, tapping the beat & producing midi streams.
+- [Aubio] - Segmentation, pitch detection, tapping the beat
+    and producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Looping and sampling with the Web Audio API.
+- [Faust] - Functional programming language
+    for sound synthesis and audio processing.
 - [Klasma] - Chiptune music composition kit.
 - [LickCreator] - Online web based music notation.
 - [Leipzig] - Composition library for Clojure and Clojurescript.
@@ -64,6 +69,8 @@ A curated list of software and resources to create music.
 - [Sharp11] - Music theorization and improvisation engine.
 - [Step Sequencer] - Elm step sequencer for programming drum beats.
 - [Teoria] - JavaScript library for music theory.
+- [TidalCycles] - Programming language to describe polyphonic, polyrhythmic,
+    and generative music sequences.
 - [Tonal] - Functional music theory library.
 - [Tone.js] - A Web Audio framework for making interactive music in the browser.
 - [Tuna] - An audio effects library for the Web Audio API.
@@ -74,6 +81,7 @@ A curated list of software and resources to create music.
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
+[Faust]: https://faust.grame.fr
 [Klasma]: https://github.com/hdgarrood/klasma
 [LickCreator]: https://twitter.com/lickcreator
 [Leipzig]: https://github.com/ctford/leipzig
@@ -86,18 +94,12 @@ A curated list of software and resources to create music.
 [Sharp11]: https://github.com/jsrmath/sharp11
 [Step Sequencer]: https://github.com/bholtbholt/step-sequencer
 [Teoria]: https://github.com/saebekassebil/teoria
+[TidalCycles]: https://tidalcycles.org
 [Tonal]: https://github.com/danigb/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
 [VCV Rack]: https://vcvrack.com
 [Vexwarp]: https://github.com/0xfe/vexwarp
-
-
-## Knowledge
-
-- [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
-
-[youtube.com/i_0DXxNeaQ0]: http://youtube.com/watch?v=i_0DXxNeaQ0
 
 
 ## Apps
@@ -155,3 +157,17 @@ A curated list of software and resources to create music.
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
 [UkuleleSongbook]: https://github.com/casertap/UkuleleSongbook
 [Ukutabs]: https://ukutabs.com
+
+
+## Knowledge
+
+- [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
+
+[youtube.com/i_0DXxNeaQ0]: http://youtube.com/watch?v=i_0DXxNeaQ0
+
+
+## Articles
+
+- [Sound, Motion, Notation] - Information and Art.
+
+[Sound, Motion, Notation]: https://nextjournal.com/schmudde/sound-motion-notation
