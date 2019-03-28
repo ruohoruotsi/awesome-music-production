@@ -117,8 +117,11 @@ A curated list of software and resources to create music.
 ## Apps
 
 - [Auxy] - Modern instruments for mobile creators.
+- [Composer's Sketchpad] - Sequencer that combines musical staff paper
+    with an artist's sketchbook (iOS only).
 
 [Auxy]: http://auxy.co
+[Composer's Sketchpad]: http://composerssketchpad.com
 
 
 ## Webapps
@@ -200,11 +203,14 @@ A curated list of software and resources to create music.
 
 ## Articles
 
+- [DeepAudioClassification] - Finding the genre of a song with deep learning.
 - [Modeling Music with algebraic data types][modeling-music]
 - [Sound, Motion, Notation] - Information and Art.
 - [Terry Riley's "In C"] - A Journey Through a Musical Possibility Space.
 - [Visual Music & Machine Learning Workshop for Kids][vm-workshop]
 
+[DeepAudioClassification]:
+    https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194
 [modeling-music]: https://reasonablypolymorphic.com/blog/modeling-music/
 [Sound, Motion, Notation]:
     https://nextjournal.com/schmudde/sound-motion-notation
@@ -216,7 +222,9 @@ A curated list of software and resources to create music.
 
 ## Research
 
+- [Musical User Interfaces] - Rethink how audio software is designed.
 - [Universal Music Translation Network]
 
+[Musical User Interfaces]: https://arthurcarabott.com/mui/
 [Universal Music Translation Network]:
     https://research.fb.com/facebook-researchers-use-ai-to-turn-whistles-into-orchestral-music-and-power-other-musical-translations/
