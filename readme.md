@@ -48,6 +48,7 @@ A curated list of software and resources to create music.
 
 - [Artiphon] - Guitar like MPE controller.
 - [Bela] - Computing platform for creating responsive interactive applications.
+- [C-Thru Music Axis] - Hexagonal and harmonic table based controller.
 - [Continuum Fingerboard] - Linear piano like MPE playing surface.
 - [Dodeka Stellar] - Linear and isomorphic MIDI keyboard.
 - [dualo du-touch] - Accordion like controller with hexagonal pads.
@@ -63,6 +64,7 @@ A curated list of software and resources to create music.
 
 [Artiphon]: https://artiphon.com
 [Bela]: https://bela.io
+[C-Thru Music Axis]: http://c-thru-music.com
 [Continuum Fingerboard]: https://www.hakenaudio.com/continuum-fingerboard
 [Dodeka Stellar]: https://www.dodekamusic.com/stellar/
 [dualo du-touch]: https://dualo.org
