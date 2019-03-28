@@ -50,6 +50,7 @@ A curated list of software and resources to create music.
 - [Bela] - Computing platform for creating responsive interactive applications.
 - [Continuum Fingerboard] - Linear piano like MPE playing surface.
 - [Dodeka Stellar] - Linear and isomorphic MIDI keyboard.
+- [dualo du-touch] - Accordion like controller with hexagonal pads.
 - [Eigenharp] - Grid, breath pipe, and touch strip enabled MPE instrument.
 - [Joué] - Expressive and modular MPE controller.
 - [LinnStrument] - Grid based expressive [MPE] controller.
@@ -63,6 +64,7 @@ A curated list of software and resources to create music.
 [Bela]: https://bela.io
 [Continuum Fingerboard]: https://www.hakenaudio.com/continuum-fingerboard
 [Dodeka Stellar]: https://www.dodekamusic.com/stellar/
+[dualo du-touch]: https://dualo.org
 [Eigenharp]: http://www.eigenlabs.com/info/
 [Joué]: https://www.play-joue.com/en/
 [LinnStrument]: http://www.rogerlinndesign.com/linnstrument.html
@@ -97,11 +99,11 @@ A curated list of software and resources to create music.
 - [Klasma] - Chiptune music composition kit.
 - [libsoundio] - Cross platform audio input and output library.
 - [LickCreator] - Online web based music notation.
-- [Leipzig] - Composition library for Clojure and Clojurescript.
+- [Leipzig] - Composition library for Clojure and ClojureScript.
 - [Magenta] - Music and Art Generation with Machine Intelligence.
 - [Magiclock] - Feel MIDI clock beat via the magic trackpad.
 - [meSing.js] - JavaScript singing synthesis library.
-- [Microm] - Javascript library to convert browser microphone to mp3.
+- [Microm] - JavaScript library to convert browser microphone to mp3.
 - [Music Suite] - Haskell based language for describing music.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Octavian] - Utility to reason about notes, frequencies, and intervals.
@@ -110,6 +112,7 @@ A curated list of software and resources to create music.
 - [Pedalboard.js] - JavaScript framework to develop audio effects for guitars.
 - [React Music] - Create beats with [React].
 - [Sharp11] - Music theorization and improvisation engine.
+- [Slang] - Simple audio programming language implemented in JavaScript.
 - [Step Sequencer] - Elm step sequencer for programming drum beats.
 - [Teoria] - JavaScript library for music theory.
 - [TidalCycles] - Programming language to describe polyphonic, polyrhythmic,
@@ -120,6 +123,7 @@ A curated list of software and resources to create music.
 - [Tuna] - An audio effects library for the Web Audio API.
 - [VCV Rack] - Open source virtual modular synthesizer.
 - [Vexwarp] - JavaSCript library for audio time stretching and pitch shifting.
+- [Vivid] - High quality audio in Haskell with SuperCollider.
 
 [Alda]: https://github.com/alda-lang/alda
 [Aubio]: https://aubio.org
@@ -144,6 +148,7 @@ A curated list of software and resources to create music.
 [React Music]: https://github.com/FormidableLabs/react-music
 [React]: https://reactjs.org/
 [Sharp11]: https://github.com/jsrmath/sharp11
+[Slang]: http://slang.kylestetz.com
 [Step Sequencer]: https://github.com/bholtbholt/step-sequencer
 [Teoria]: https://github.com/saebekassebil/teoria
 [TidalCycles]: https://tidalcycles.org
@@ -153,6 +158,7 @@ A curated list of software and resources to create music.
 [Tuna]: https://github.com/Theodeus/tuna
 [VCV Rack]: https://vcvrack.com
 [Vexwarp]: https://github.com/0xfe/vexwarp
+[Vivid]: https://vivid-synth.com
 
 
 ## Apps
