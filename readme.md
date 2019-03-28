@@ -57,6 +57,7 @@ A curated list of software and resources to create music.
     http://www.akaipro.com/products/keyboard-controllers/mpk-mini-mkii
 [MPE]: https://roli.com/mpe
 
+
 ## Software Libraries
 
 - [Alda] - A music programming language for musicians.
@@ -64,6 +65,7 @@ A curated list of software and resources to create music.
     and producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Looping and sampling with the Web Audio API.
+- [Dplug] - Library to make audio plug-ins with the D programming language.
 - [Faust] - Functional programming language
     for sound synthesis and audio processing.
 - [Klasma] - Chiptune music composition kit.
@@ -71,6 +73,7 @@ A curated list of software and resources to create music.
 - [Leipzig] - Composition library for Clojure and Clojurescript.
 - [Magenta] - Music and Art Generation with Machine Intelligence.
 - [Magiclock] - Feel MIDI clock beat via the magic trackpad.
+- [meSing.js] - JavaScript singing synthesis library.
 - [Microm] - Javascript library to convert browser microphone to mp3.
 - [Music Suite] - Haskell based language for describing music.
 - [Node Speaker] - Output PCM audio data to the speakers.
@@ -93,12 +96,14 @@ A curated list of software and resources to create music.
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
+[Dplug]: https://github.com/AuburnSounds/dplug
 [Faust]: https://faust.grame.fr
 [Klasma]: https://github.com/hdgarrood/klasma
 [Leipzig]: https://github.com/ctford/leipzig
 [LickCreator]: https://twitter.com/lickcreator
 [Magenta]: https://magenta.tensorflow.org
 [Magiclock]: https://github.com/faroit/magiclock
+[meSing.js]: https://github.com/usdivad/mesing
 [Microm]: https://github.com/zzarcon/microm
 [Music Suite]: http://music-suite.github.io
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
@@ -132,11 +137,14 @@ A curated list of software and resources to create music.
 
 ## Webapps
 
+- [108] - Minimal beat machine.
 - [AI Duet] - A smart piano that responds to you.
 - [Arpeggiator] - Web Audio Arpeggiator.
 - [Baroque Dances] - Procedurally generated classical music.
 - [Beat Push] - Online music production with built-in
     parallel drum and synth machine.
+- [beatboxer] - Simple drum machine.
+- [BlokDust] - Interactive music-making app to build synths and sounds.
 - [Djenerator] - A metal breakdown generator.
 - [Funklet] - Drum machine and library of famous drum patterns.
 - [Jamwithchrome] - Play music live with your friends online.
@@ -161,10 +169,13 @@ A curated list of software and resources to create music.
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
 - [Qwerkey] - Keyboard tonnetz.
 
+[108]: https://martinwecke.de/108/
 [AI Duet]: https://experiments.withgoogle.com/ai-duet
 [Arpeggiator]: http://arpeggiator.desandro.com
 [Baroque Dances]: http://devinrothmusic.com/baroquedances/
 [Beat Push]: https://beatpush.com/
+[beatboxer]: https://sig.gy/beatboxer/
+[BlokDust]: https://blokdust.com
 [Djenerator]: http://djen.co
 [Funklet]: http://funklet.com
 [Jamwithchrome]: http://jamwithchrome.com
