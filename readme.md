@@ -56,6 +56,7 @@ A curated list of software and resources to create music.
 - [LinnStrument] - Grid based expressive [MPE] controller.
 - [Morph] - Expressive MPE touch controller with swappable hardware interfaces.
 - [MPK Mini mkII] - Cheap, functional, excellent starter controller.
+- [OpenDeck] - Hardware platform to build custom MIDI controllers.
 - [QuNexus] - Small and portable MPE keyboard.
 - [ROLI Blocks] - Portable snap-together MIDI controller
     with both desktop and mobile interfaces.
@@ -72,6 +73,7 @@ A curated list of software and resources to create music.
 [MPK Mini mkII]:
     http://www.akaipro.com/products/keyboard-controllers/mpk-mini-mkii
 [MPE]: https://roli.com/mpe
+[OpenDeck]: https://shanteacontrols.com
 [QuNexus]: https://www.keithmcmillen.com/products/qunexus/
 [ROLI Blocks]: https://roli.com/products/blocks/
 
@@ -80,8 +82,10 @@ A curated list of software and resources to create music.
 
 - [Harpejji] - Electric stringed musical instrument.
 - [Keytam] - Tunable guitar-tambourine hybrid.
+- [Musical Instrument Challenge][inst-challenge] - List of DIY instruments.
 
 [Harpejji]: https://www.marcodi.com/collections/standard-series
+[inst-challenge]: https://hackaday.io/submissions/prize2018_instrument/list
 [Keytam]: https://www.keytam-drum.com
 
 
@@ -93,6 +97,7 @@ A curated list of software and resources to create music.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Looping and sampling with the Web Audio API.
 - [Dplug] - Library to make audio plug-ins with the D programming language.
+- [Euterpea] - In Haskell embedded language for computer music applications.
 - [Faust] - Functional programming language
     for sound synthesis and audio processing.
 - [FourVoices] - Automatic music generator for four-part writing.
@@ -130,6 +135,7 @@ A curated list of software and resources to create music.
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
 [Dplug]: https://github.com/AuburnSounds/dplug
+[Euterpea]: http://www.euterpea.com
 [Faust]: https://faust.grame.fr
 [FourVoices]: https://github.com/erickim555/FourVoices
 [Klasma]: https://github.com/hdgarrood/klasma
