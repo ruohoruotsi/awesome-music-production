@@ -68,7 +68,9 @@ A curated list of software and resources to create music.
 - [Dplug] - Library to make audio plug-ins with the D programming language.
 - [Faust] - Functional programming language
     for sound synthesis and audio processing.
+- [FourVoices] - Automatic music generator for four-part writing.
 - [Klasma] - Chiptune music composition kit.
+- [libsoundio] - Cross platform audio input and output library.
 - [LickCreator] - Online web based music notation.
 - [Leipzig] - Composition library for Clojure and Clojurescript.
 - [Magenta] - Music and Art Generation with Machine Intelligence.
@@ -81,11 +83,13 @@ A curated list of software and resources to create music.
 - [Overtone] - Open Source toolkit for designing synthesizers
     and collaborating with music.
 - [Pedalboard.js] - JavaScript framework to develop audio effects for guitars.
+- [React Music] - Create beats with [React].
 - [Sharp11] - Music theorization and improvisation engine.
 - [Step Sequencer] - Elm step sequencer for programming drum beats.
 - [Teoria] - JavaScript library for music theory.
 - [TidalCycles] - Programming language to describe polyphonic, polyrhythmic,
     and generative music sequences.
+- [timbre.js] - JavaScript library for objective sound programming.
 - [Tonal] - Functional music theory library.
 - [Tone.js] - A Web Audio framework for making interactive music in the browser.
 - [Tuna] - An audio effects library for the Web Audio API.
@@ -98,8 +102,10 @@ A curated list of software and resources to create music.
 [Blip]: http://jshanley.github.io/blip
 [Dplug]: https://github.com/AuburnSounds/dplug
 [Faust]: https://faust.grame.fr
+[FourVoices]: https://github.com/erickim555/FourVoices
 [Klasma]: https://github.com/hdgarrood/klasma
 [Leipzig]: https://github.com/ctford/leipzig
+[libsoundio]: http://libsound.io
 [LickCreator]: https://twitter.com/lickcreator
 [Magenta]: https://magenta.tensorflow.org
 [Magiclock]: https://github.com/faroit/magiclock
@@ -110,10 +116,13 @@ A curated list of software and resources to create music.
 [Octavian]: https://github.com/stevekinney/octavian
 [Overtone]: https://github.com/overtone/overtone
 [Pedalboard.js]: https://github.com/dashersw/pedalboard.js
+[React Music]: https://github.com/FormidableLabs/react-music
+[React]: https://reactjs.org/
 [Sharp11]: https://github.com/jsrmath/sharp11
 [Step Sequencer]: https://github.com/bholtbholt/step-sequencer
 [Teoria]: https://github.com/saebekassebil/teoria
 [TidalCycles]: https://tidalcycles.org
+[timbre.js]: https://mohayonao.github.io/timbre.js/
 [Tonal]: https://github.com/danigb/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
@@ -128,11 +137,13 @@ A curated list of software and resources to create music.
     with an artist's sketchbook (iOS only).
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
+- [SFZ Designer] - Visual sample mapping tool to create SFZ files.
 
 [Auxy]: http://auxy.co
 [Composer's Sketchpad]: http://composerssketchpad.com
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: http://filter24.org/seq24/
+[SFZ Designer]: http://mildon.me/sfzdesigner
 
 
 ## Webapps
