@@ -74,6 +74,7 @@ A curated list of software and resources to create music.
 - [Microm] - Javascript library to convert browser microphone to mp3.
 - [Music Suite] - Haskell based language for describing music.
 - [Node Speaker] - Output PCM audio data to the speakers.
+- [Octavian] - Utility to reason about notes, frequencies, and intervals.
 - [Overtone] - Open Source toolkit for designing synthesizers
     and collaborating with music.
 - [Pedalboard.js] - JavaScript framework to develop audio effects for guitars.
@@ -94,13 +95,14 @@ A curated list of software and resources to create music.
 [Blip]: http://jshanley.github.io/blip
 [Faust]: https://faust.grame.fr
 [Klasma]: https://github.com/hdgarrood/klasma
-[LickCreator]: https://twitter.com/lickcreator
 [Leipzig]: https://github.com/ctford/leipzig
+[LickCreator]: https://twitter.com/lickcreator
 [Magenta]: https://magenta.tensorflow.org
 [Magiclock]: https://github.com/faroit/magiclock
 [Microm]: https://github.com/zzarcon/microm
 [Music Suite]: http://music-suite.github.io
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
+[Octavian]: https://github.com/stevekinney/octavian
 [Overtone]: https://github.com/overtone/overtone
 [Pedalboard.js]: https://github.com/dashersw/pedalboard.js
 [Sharp11]: https://github.com/jsrmath/sharp11
@@ -126,6 +128,7 @@ A curated list of software and resources to create music.
 
 ## Webapps
 
+- [AI Duet] - A smart piano that responds to you.
 - [Arpeggiator] - Web Audio Arpeggiator.
 - [Baroque Dances] - Procedurally generated classical music.
 - [Beat Push] - Online music production with built-in
@@ -134,6 +137,7 @@ A curated list of software and resources to create music.
 - [Jamwithchrome] - Play music live with your friends online.
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
 - [Klangmeister] - Live coding environment for the browser.
+- [Landr] - Automatic audio mastering.
 - [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Loopjs] - Live Electronic Music Performance Software.
 - [Looplabs] - Cloud based music studio.
@@ -149,6 +153,7 @@ A curated list of software and resources to create music.
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
 - [Qwerkey] - Keyboard tonnetz.
 
+[AI Duet]: https://experiments.withgoogle.com/ai-duet
 [Arpeggiator]: http://arpeggiator.desandro.com
 [Baroque Dances]: http://devinrothmusic.com/baroquedances/
 [Beat Push]: https://beatpush.com/
@@ -156,6 +161,7 @@ A curated list of software and resources to create music.
 [Jamwithchrome]: http://jamwithchrome.com
 [Keithwhor.com/music]: http://keithwhor.com/music
 [Klangmeister]: http://ctford.github.io/klangmeister
+[Landr]: https://www.landr.com
 [Lissajous]: https://github.com/kylestetz/lissajous
 [Loopjs]: http://loopjs.com
 [Looplabs]: https://looplabs.com
