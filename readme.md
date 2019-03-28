@@ -26,17 +26,22 @@ A curated list of software and resources to create music.
 
 ### Synthesizers
 
+- [dadamachines] - Toolkit to create automated analog sounds.
 - [Organelle] - Intuitive controls with a powerful and flexible sound engine.
 - [OP-1] - A powerful portable music workstation.
     with sampler, multi-track support, and onboard synth generation.
 - [Pocket Operators] - Tiny, low-cost digital instruments.
 - [LittleBits Synth Kit] - Snap-together modular synthesizer
     built in partnership with KORG.
+- [Zynthian] - Open hardware swiss army knife of synthesis,
+    equipped with multiple engines, filters and effects.
 
+[dadamachines]: https://dadamachines.com
 [Organelle]: https://critterandguitari.com/products/organelle
 [OP-1]: https://www.teenageengineering.com/products/op-1
 [Pocket Operators]: https://www.teenageengineering.com/products/po
 [LittleBits Synth Kit]: https://shop.littlebits.cc/products/synth-kit
+[Zynthian]: http://zynthian.org
 
 
 ### MIDI Controllers
@@ -129,10 +134,12 @@ A curated list of software and resources to create music.
 - [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Loopjs] - Live Electronic Music Performance Software.
 - [Looplabs] - Cloud based music studio.
+- [Matrix Piano] - Virtual 2D piano to use the PC keyboard as an instrument.
 - [Musical Chord Progression Arpeggiator] -
     Sketch out musical chord progressions.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
 - [Sononym] - Visual sample browser.
+- [SuperCollider] - Platform for audio synthesis and algorithmic composition.
 - [Synth Time] - Simple synthesizer.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
 - [Websynths] - Free browser-based microtonal midi instrument.
@@ -149,10 +156,12 @@ A curated list of software and resources to create music.
 [Lissajous]: https://github.com/kylestetz/lissajous
 [Loopjs]: http://loopjs.com
 [Looplabs]: https://looplabs.com
+[Matrix Piano]: http://www.markllet.de/matrix_piano/
 [Musical Chord Progression Arpeggiator]:
     https://codepen.io/jakealbaugh/pen/qNrZyw
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
 [Sononym]: https://www.sononym.net
+[SuperCollider]: https://supercollider.github.io
 [Synth Time]: http://codepen.io/mattgreenberg/pen/gPdqBb
 [Synthi-JS]: http://alexnisnevich.github.io/synthi-js
 [Websynths]: http://websynths.com
