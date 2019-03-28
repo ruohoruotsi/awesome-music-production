@@ -47,6 +47,7 @@ A curated list of software and resources to create music.
 ### MIDI Controllers
 
 - [Artiphon] - Guitar like MPE controller.
+- [Bela] - Computing platform for creating responsive interactive applications.
 - [Continuum Fingerboard] - Linear piano like MPE playing surface.
 - [Dodeka Stellar] - Linear and isomorphic MIDI keyboard.
 - [Eigenharp] - Grid, breath pipe, and touch strip enabled MPE instrument.
@@ -59,6 +60,7 @@ A curated list of software and resources to create music.
     with both desktop and mobile interfaces.
 
 [Artiphon]: https://artiphon.com
+[Bela]: https://bela.io
 [Continuum Fingerboard]: https://www.hakenaudio.com/continuum-fingerboard
 [Dodeka Stellar]: https://www.dodekamusic.com/stellar/
 [Eigenharp]: http://www.eigenlabs.com/info/
@@ -191,9 +193,11 @@ A curated list of software and resources to create music.
 - [Matrix Piano] - Virtual 2D piano to use the PC keyboard as an instrument.
 - [Musical Chord Progression Arpeggiator] -
     Sketch out musical chord progressions.
+- [Piano Genie] - Machine learning augmented piano app.
 - [Reactor] - Online DJ controller connected to SoundCloud.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
 - [Sononym] - Visual sample browser.
+- [Splice] - Music creation and collaboration platform.
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
 - [Synth Time] - Simple synthesizer.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
@@ -222,9 +226,11 @@ A curated list of software and resources to create music.
 [Matrix Piano]: http://www.markllet.de/matrix_piano/
 [Musical Chord Progression Arpeggiator]:
     https://codepen.io/jakealbaugh/pen/qNrZyw
+[Piano Genie]: https://piano-genie.glitch.me
 [Reactor]: https://lukeandersen.github.io/reactor
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
 [Sononym]: https://www.sononym.net
+[Splice]: https://splice.com
 [SuperCollider]: https://supercollider.github.io
 [Synth Time]: http://codepen.io/mattgreenberg/pen/gPdqBb
 [Synthi-JS]: http://alexnisnevich.github.io/synthi-js
