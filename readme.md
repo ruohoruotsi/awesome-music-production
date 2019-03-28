@@ -138,6 +138,7 @@ A curated list of software and resources to create music.
 - [Beat Push] - Online music production with built-in
     parallel drum and synth machine.
 - [Djenerator] - A metal breakdown generator.
+- [Funklet] - Drum machine and library of famous drum patterns.
 - [Jamwithchrome] - Play music live with your friends online.
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
 - [Klangmeister] - Live coding environment for the browser.
@@ -154,6 +155,8 @@ A curated list of software and resources to create music.
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
 - [Synth Time] - Simple synthesizer.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
+- [TimeStretch] - Online tool to loop, speed up, slow down,
+    and pitch shift sections of an audio file.
 - [Websynths] - Free browser-based microtonal midi instrument.
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
 - [Qwerkey] - Keyboard tonnetz.
@@ -163,6 +166,7 @@ A curated list of software and resources to create music.
 [Baroque Dances]: http://devinrothmusic.com/baroquedances/
 [Beat Push]: https://beatpush.com/
 [Djenerator]: http://djen.co
+[Funklet]: http://funklet.com
 [Jamwithchrome]: http://jamwithchrome.com
 [Keithwhor.com/music]: http://keithwhor.com/music
 [Klangmeister]: http://ctford.github.io/klangmeister
@@ -179,6 +183,7 @@ A curated list of software and resources to create music.
 [SuperCollider]: https://supercollider.github.io
 [Synth Time]: http://codepen.io/mattgreenberg/pen/gPdqBb
 [Synthi-JS]: http://alexnisnevich.github.io/synthi-js
+[TimeStretch]: https://29a.ch/timestretch/
 [Websynths]: http://websynths.com
 [Qwerkey]: http://some1else.github.io/qwerkey
 [QuasiMusic]: http://www.gregegan.net/APPLETS/34/34.html
@@ -215,15 +220,19 @@ A curated list of software and resources to create music.
 
 ## Articles
 
+- [Detecting piano notes with web audio][detect-notes]
 - [DeepAudioClassification] - Finding the genre of a song with deep learning.
 - [Modeling Music with algebraic data types][modeling-music]
 - [Musimathics] - The mathematical foundations of music.
 - [Sound, Motion, Notation] - Information and Art.
 - [Terry Riley's "In C"] - A Journey Through a Musical Possibility Space.
+- [Training a Recurrent Neural Network to Compose Music][abc-rnn]
 - [Visual Music & Machine Learning Workshop for Kids][vm-workshop]
 
+[abc-rnn]: https://maraoz.com/2016/02/02/abc-rnn/
 [DeepAudioClassification]:
     https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194
+[detect-notes]: https://hackernoon.com/a-web-audio-experiment-666743e16679
 [modeling-music]: https://reasonablypolymorphic.com/blog/modeling-music/
 [Musimathics]: http://www.musimathics.com/
 [Sound, Motion, Notation]:
