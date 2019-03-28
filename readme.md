@@ -46,16 +46,30 @@ A curated list of software and resources to create music.
 
 ### MIDI Controllers
 
+- [Artiphon] - Guitar like MPE controller.
+- [Continuum Fingerboard] - Linear piano like MPE playing surface.
+- [Dodeka Stellar] - Linear and isomorphic MIDI keyboard.
+- [Eigenharp] - Grid, breath pipe, and touch strip enabled MPE instrument.
+- [Joué] - Expressive and modular MPE controller.
 - [LinnStrument] - Grid based expressive [MPE] controller.
+- [Morph] - Expressive MPE touch controller with swappable hardware interfaces.
+- [MPK Mini mkII] - Cheap, functional, excellent starter controller.
+- [QuNexus] - Small and portable MPE keyboard.
 - [ROLI Blocks] - Portable snap-together MIDI controller
     with both desktop and mobile interfaces.
-- [MPK Mini mkII] - Cheap, functional, excellent starter controller.
 
+[Artiphon]: https://artiphon.com
+[Continuum Fingerboard]: https://www.hakenaudio.com/continuum-fingerboard
+[Dodeka Stellar]: https://www.dodekamusic.com/stellar/
+[Eigenharp]: http://www.eigenlabs.com/info/
+[Joué]: https://www.play-joue.com/en/
 [LinnStrument]: http://www.rogerlinndesign.com/linnstrument.html
-[ROLI Blocks]: https://roli.com/products/blocks/
+[Morph]: https://sensel.com/pages/the-sensel-morph
 [MPK Mini mkII]:
     http://www.akaipro.com/products/keyboard-controllers/mpk-mini-mkii
 [MPE]: https://roli.com/mpe
+[QuNexus]: https://www.keithmcmillen.com/products/qunexus/
+[ROLI Blocks]: https://roli.com/products/blocks/
 
 
 ## Software Libraries
