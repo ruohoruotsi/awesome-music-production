@@ -72,6 +72,15 @@ A curated list of software and resources to create music.
 [ROLI Blocks]: https://roli.com/products/blocks/
 
 
+### Instruments
+
+- [Harpejji] - Electric stringed musical instrument.
+- [Keytam] - Tunable guitar-tambourine hybrid.
+
+[Harpejji]: https://www.marcodi.com/collections/standard-series
+[Keytam]: https://www.keytam-drum.com
+
+
 ## Software Libraries
 
 - [Alda] - A music programming language for musicians.
