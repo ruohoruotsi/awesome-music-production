@@ -71,6 +71,7 @@ A curated list of software and resources to create music.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Overtone] - Open Source toolkit for designing synthesizers
     and collaborating with music.
+- [Pedalboard.js] - JavaScript framework to develop audio effects for guitars.
 - [Sharp11] - Music theorization and improvisation engine.
 - [Step Sequencer] - Elm step sequencer for programming drum beats.
 - [Teoria] - JavaScript library for music theory.
@@ -96,6 +97,7 @@ A curated list of software and resources to create music.
 [Music Suite]: http://music-suite.github.io
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Overtone]: https://github.com/overtone/overtone
+[Pedalboard.js]: https://github.com/dashersw/pedalboard.js
 [Sharp11]: https://github.com/jsrmath/sharp11
 [Step Sequencer]: https://github.com/bholtbholt/step-sequencer
 [Teoria]: https://github.com/saebekassebil/teoria
@@ -189,15 +191,18 @@ A curated list of software and resources to create music.
 
 ## Articles
 
+- [Modeling Music with algebraic data types][modeling-music]
 - [Sound, Motion, Notation] - Information and Art.
 - [Terry Riley's "In C"] - A Journey Through a Musical Possibility Space.
 - [Visual Music & Machine Learning Workshop for Kids][vm-workshop]
 
+[modeling-music]: https://reasonablypolymorphic.com/blog/modeling-music/
 [Sound, Motion, Notation]:
     https://nextjournal.com/schmudde/sound-motion-notation
 [Terry Riley's "In C"]:
     http://teropa.info/blog/2017/01/23/terry-rileys-in-c.html
-[vm-workshop]: https://becominghuman.ai/visual-music-machine-learning-workshop-for-kids-a90c957dab33
+[vm-workshop]:
+    https://becominghuman.ai/visual-music-machine-learning-workshop-for-kids-a90c957dab33
 
 
 ## Research
