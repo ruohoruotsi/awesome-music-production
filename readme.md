@@ -121,9 +121,13 @@ A curated list of software and resources to create music.
 - [Auxy] - Modern instruments for mobile creators.
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
     with an artist's sketchbook (iOS only).
+- [SeekMIDI] - Graphical multi channel MIDI sequencer.
+- [Seq24] - Minimal loop based midi sequencer.
 
 [Auxy]: http://auxy.co
 [Composer's Sketchpad]: http://composerssketchpad.com
+[SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
+[Seq24]: http://filter24.org/seq24/
 
 
 ## Webapps
@@ -144,6 +148,7 @@ A curated list of software and resources to create music.
 - [Matrix Piano] - Virtual 2D piano to use the PC keyboard as an instrument.
 - [Musical Chord Progression Arpeggiator] -
     Sketch out musical chord progressions.
+- [Reactor] - Online DJ controller connected to SoundCloud.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
 - [Sononym] - Visual sample browser.
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
@@ -168,6 +173,7 @@ A curated list of software and resources to create music.
 [Matrix Piano]: http://www.markllet.de/matrix_piano/
 [Musical Chord Progression Arpeggiator]:
     https://codepen.io/jakealbaugh/pen/qNrZyw
+[Reactor]: https://lukeandersen.github.io/reactor
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
 [Sononym]: https://www.sononym.net
 [SuperCollider]: https://supercollider.github.io
@@ -211,6 +217,7 @@ A curated list of software and resources to create music.
 
 - [DeepAudioClassification] - Finding the genre of a song with deep learning.
 - [Modeling Music with algebraic data types][modeling-music]
+- [Musimathics] - The mathematical foundations of music.
 - [Sound, Motion, Notation] - Information and Art.
 - [Terry Riley's "In C"] - A Journey Through a Musical Possibility Space.
 - [Visual Music & Machine Learning Workshop for Kids][vm-workshop]
@@ -218,6 +225,7 @@ A curated list of software and resources to create music.
 [DeepAudioClassification]:
     https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194
 [modeling-music]: https://reasonablypolymorphic.com/blog/modeling-music/
+[Musimathics]: http://www.musimathics.com/
 [Sound, Motion, Notation]:
     https://nextjournal.com/schmudde/sound-motion-notation
 [Terry Riley's "In C"]:
@@ -228,9 +236,11 @@ A curated list of software and resources to create music.
 
 ## Research
 
+- [Harmony Explained] - Progress towards a scientific theory of music.
 - [Musical User Interfaces] - Rethink how audio software is designed.
 - [Universal Music Translation Network]
 
+[Harmony Explained]: https://arxiv.org/abs/1202.4212v2
 [Musical User Interfaces]: https://arthurcarabott.com/mui/
 [Universal Music Translation Network]:
     https://research.fb.com/facebook-researchers-use-ai-to-turn-whistles-into-orchestral-music-and-power-other-musical-translations/
