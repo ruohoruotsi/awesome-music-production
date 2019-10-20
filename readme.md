@@ -10,15 +10,17 @@ A curated list of software and resources to create music.
 - [Bitwig]
 - [Cubase]
 - [Garage Band]
+- [Giada] - Minimal audio tool for DJs, live performers and musicians.
 - [Logic Pro X]
 - [Pro Tools]
-- [Reaper] - Complete digital audio production application for Windows and OS X.
+- [Reaper] - Complete digital audio production app for Windows and macOS.
 
 [Ableton]: https://ableton.com/live
 [Ardour]: https://ardour.org
 [Bitwig]: https://www.bitwig.com/
 [Cubase]: http://steinberg.net/en/products/cubase
 [Garage Band]: https://apple.com/mac/garageband
+[Giada]: https://www.giadamusic.com
 [Logic Pro X]: https://apple.com/logic-pro
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Reaper]: http://reaper.fm
@@ -28,6 +30,7 @@ A curated list of software and resources to create music.
 
 ### Synthesizers
 
+- [Amsynth] - Synthesizer with a classic subtractive synthesizer topology.
 - [dadamachines] - Toolkit to create automated analog sounds.
 - [Organelle] - Intuitive controls with a powerful and flexible sound engine.
 - [OP-1] - A powerful portable music workstation.
@@ -35,14 +38,17 @@ A curated list of software and resources to create music.
 - [Pocket Operators] - Tiny, low-cost digital instruments.
 - [LittleBits Synth Kit] - Snap-together modular synthesizer
     built in partnership with KORG.
+- [ZynAddSubFX] - Polyphonic fully featured musical software synthesizer.
 - [Zynthian] - Open hardware swiss army knife of synthesis,
     equipped with multiple engines, filters and effects.
 
+[Amsynth]: https://amsynth.github.io
 [dadamachines]: https://dadamachines.com
 [Organelle]: https://critterandguitari.com/products/organelle
 [OP-1]: https://www.teenageengineering.com/products/op-1
 [Pocket Operators]: https://www.teenageengineering.com/products/po
 [LittleBits Synth Kit]: https://shop.littlebits.cc/products/synth-kit
+[ZynAddSubFX]: https://github.com/zynaddsubfx/zynaddsubfx
 [Zynthian]: http://zynthian.org
 
 
@@ -89,10 +95,12 @@ A curated list of software and resources to create music.
 - [Harpejji] - Electric stringed musical instrument.
 - [Keytam] - Tunable guitar-tambourine hybrid.
 - [Musical Instrument Challenge][inst-challenge] - List of DIY instruments.
+- [OTTO] - Sampler, sequencer, multi-engine synth and effects in a box.
 
 [Harpejji]: https://www.marcodi.com/collections/standard-series
 [inst-challenge]: https://hackaday.io/submissions/prize2018_instrument/list
 [Keytam]: https://www.keytam-drum.com
+[OTTO]: https://github.com/topisani/OTTO
 
 
 ## Software Libraries
