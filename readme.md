@@ -138,12 +138,14 @@ A curated list of software, hardware, and other resources to create music.
 - [Auxy] - Modern instruments for mobile creators.
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
     with an artist's sketchbook (iOS only).
+- [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
 - [SFZ Designer] - Visual sample mapping tool to create SFZ files.
 
 [Auxy]: http://auxy.co
 [Composer's Sketchpad]: http://composerssketchpad.com
+[Melodics]: https://melodics.com
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: http://filter24.org/seq24/
 [SFZ Designer]: http://mildon.me/sfzdesigner
@@ -218,6 +220,17 @@ A curated list of software, hardware, and other resources to create music.
 [QuasiMusic]: http://www.gregegan.net/APPLETS/34/34.html
 
 
+### Virtual Reality
+
+- [Electronauts] - DJ simulation with 8 digital instruments.
+- [Lyra VR] - Room scale music creation app.
+- [Paradiddle] - Virtual reality drum kit.
+
+[Electronauts]: https://survios.com/electronauts/
+[Lyra VR]: https://lyravr.com
+[Paradiddle]: http://paradiddleapp.com
+
+
 ### Guitar
 
 - [Chordata] - A dummy chordbook for mandolin, ukulele and guitar.
@@ -277,6 +290,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Neova] - Expressive finger ring.
 - [Open Woodwind Project] - Electronic aerophone.
 - [OpenDeck] - Hardware platform to build custom MIDI controllers.
+- [Poly Expressive] - Foot controller.
 - [QuNexus] - Small and portable MPE keyboard.
 - [ROLI Blocks] - Portable snap-together MIDI controller
     with both desktop and mobile interfaces.
@@ -298,6 +312,7 @@ A curated list of software, hardware, and other resources to create music.
 [Neova]: https://www.enhancia.co
 [Open Woodwind Project]: https://hackaday.io/project/2992-the-open-woodwind-project
 [OpenDeck]: https://shanteacontrols.com
+[Poly Expressive]: https://www.polyeffects.com/pages/expressive
 [QuNexus]: https://www.keithmcmillen.com/products/qunexus/
 [ROLI Blocks]: https://roli.com/products/blocks/
 
@@ -305,12 +320,14 @@ A curated list of software, hardware, and other resources to create music.
 ### Instruments
 
 - [Harpejji] - Electric stringed musical instrument.
+- [Karlax] - Multi sensor expressive Clarinette like instrument.
 - [Keytam] - Tunable guitar-tambourine hybrid.
 - [Musical Instrument Challenge][inst-challenge] - List of DIY instruments.
 - [OTTO] - Sampler, sequencer, multi-engine synth and effects in a box.
 
 [Harpejji]: https://www.marcodi.com/collections/standard-series
 [inst-challenge]: https://hackaday.io/submissions/prize2018_instrument/list
+[Karlax]: http://www.dafact.com
 [Keytam]: https://www.keytam-drum.com
 [OTTO]: https://github.com/topisani/OTTO
 
@@ -360,8 +377,11 @@ A curated list of software, hardware, and other resources to create music.
 - [Harmony Explained] - Progress towards a scientific theory of music.
 - [Musical User Interfaces] - Rethink how audio software is designed.
 - [Universal Music Translation Network]
+- [Virtual Reality Musical Instruments:
+    State of the Art, Design Principles, and Future Directions][VR Instruments]
 
 [Harmony Explained]: https://arxiv.org/abs/1202.4212v2
 [Musical User Interfaces]: https://arthurcarabott.com/mui/
 [Universal Music Translation Network]:
     https://research.fb.com/facebook-researchers-use-ai-to-turn-whistles-into-orchestral-music-and-power-other-musical-translations/
+[VR Instruments]: https://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00372
