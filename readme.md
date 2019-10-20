@@ -124,6 +124,15 @@ A curated list of software, hardware, and other resources to create music.
 [Vivid]: https://vivid-synth.com
 
 
+### Synthesizers
+
+- [Amsynth] - Synthesizer with a classic subtractive synthesizer topology.
+- [Surge Synthesizer] - Open source digital synthesizer.
+
+[Amsynth]: https://amsynth.github.io
+[Surge Synthesizer]:  https://surge-synthesizer.github.io
+
+
 ### Apps
 
 - [Auxy] - Modern instruments for mobile creators.
@@ -229,8 +238,8 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Synthesizers
 
-- [Amsynth] - Synthesizer with a classic subtractive synthesizer topology.
 - [dadamachines] - Toolkit to create automated analog sounds.
+- [Modal 002R] - 8 or 12 voice digital/analogue hybrid 3U rack.
 - [Organelle] - Intuitive controls with a powerful and flexible sound engine.
 - [OP-1] - A powerful portable music workstation.
     with sampler, multi-track support, and onboard synth generation.
@@ -241,8 +250,8 @@ A curated list of software, hardware, and other resources to create music.
 - [Zynthian] - Open hardware swiss army knife of synthesis,
     equipped with multiple engines, filters and effects.
 
-[Amsynth]: https://amsynth.github.io
 [dadamachines]: https://dadamachines.com
+[Modal 002R]: https://www.modalelectronics.com/modal-002r
 [Organelle]: https://critterandguitari.com/products/organelle
 [OP-1]: https://www.teenageengineering.com/products/op-1
 [Pocket Operators]: https://www.teenageengineering.com/products/po
@@ -262,8 +271,10 @@ A curated list of software, hardware, and other resources to create music.
 - [Eigenharp] - Grid, breath pipe, and touch strip enabled MPE instrument.
 - [Joué] - Expressive and modular MPE controller.
 - [LinnStrument] - Grid based expressive [MPE] controller.
+- [Mimu Gloves] - Expressive wearable musical instrument.
 - [Morph] - Expressive MPE touch controller with swappable hardware interfaces.
 - [MPK Mini mkII] - Cheap, functional, excellent starter controller.
+- [Neova] - Expressive finger ring.
 - [Open Woodwind Project] - Electronic aerophone.
 - [OpenDeck] - Hardware platform to build custom MIDI controllers.
 - [QuNexus] - Small and portable MPE keyboard.
@@ -279,10 +290,12 @@ A curated list of software, hardware, and other resources to create music.
 [Eigenharp]: http://www.eigenlabs.com/info/
 [Joué]: https://www.play-joue.com/en/
 [LinnStrument]: http://www.rogerlinndesign.com/linnstrument.html
+[Mimu Gloves]: https://mimugloves.com
 [Morph]: https://sensel.com/pages/the-sensel-morph
 [MPK Mini mkII]:
     http://www.akaipro.com/products/keyboard-controllers/mpk-mini-mkii
 [MPE]: https://roli.com/mpe
+[Neova]: https://www.enhancia.co
 [Open Woodwind Project]: https://hackaday.io/project/2992-the-open-woodwind-project
 [OpenDeck]: https://shanteacontrols.com
 [QuNexus]: https://www.keithmcmillen.com/products/qunexus/
