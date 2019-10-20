@@ -1,9 +1,11 @@
 # Awesome Music Production
 
-A curated list of software and resources to create music.
+A curated list of software, hardware and other resources to create music.
 
 
-## Audio Workstations
+## Software
+
+### Audio Workstations
 
 - [Ableton]
 - [Ardour]
@@ -24,6 +26,185 @@ A curated list of software and resources to create music.
 [Logic Pro X]: https://apple.com/logic-pro
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Reaper]: http://reaper.fm
+
+
+### Libraries
+
+- [Alda] - A music programming language for musicians.
+- [Aubio] - Segmentation, pitch detection, tapping the beat
+    and producing midi streams.
+- [Band.js] - Music composer interface for the Web Audio API.
+- [Blip] - Looping and sampling with the Web Audio API.
+- [Dplug] - Library to make audio plug-ins with the D programming language.
+- [Euterpea] - In Haskell embedded language for computer music applications.
+- [Faust] - Functional programming language
+    for sound synthesis and audio processing.
+- [FourVoices] - Automatic music generator for four-part writing.
+- [Klasma] - Chiptune music composition kit.
+- [libsoundio] - Cross platform audio input and output library.
+- [LickCreator] - Online web based music notation.
+- [Leipzig] - Composition library for Clojure and ClojureScript.
+- [Magenta] - Music and Art Generation with Machine Intelligence.
+- [Magiclock] - Feel MIDI clock beat via the magic trackpad.
+- [meSing.js] - JavaScript singing synthesis library.
+- [Microm] - JavaScript library to convert browser microphone to mp3.
+- [Music Suite] - Haskell based language for describing music.
+- [Node Speaker] - Output PCM audio data to the speakers.
+- [Octavian] - Utility to reason about notes, frequencies, and intervals.
+- [Overtone] - Open Source toolkit for designing synthesizers
+    and collaborating with music.
+- [Pedalboard.js] - JavaScript framework to develop audio effects for guitars.
+- [React Music] - Create beats with [React].
+- [Sharp11] - Music theorization and improvisation engine.
+- [Slang] - Simple audio programming language implemented in JavaScript.
+- [Step Sequencer] - Elm step sequencer for programming drum beats.
+- [Teoria] - JavaScript library for music theory.
+- [TidalCycles] - Programming language to describe polyphonic, polyrhythmic,
+    and generative music sequences.
+- [timbre.js] - JavaScript library for objective sound programming.
+- [Tonal] - Functional music theory library.
+- [Tone.js] - A Web Audio framework for making interactive music in the browser.
+- [Tuna] - An audio effects library for the Web Audio API.
+- [VCV Rack] - Open source virtual modular synthesizer.
+- [Vexwarp] - JavaSCript library for audio time stretching and pitch shifting.
+- [Vivid] - High quality audio in Haskell with SuperCollider.
+
+[Alda]: https://github.com/alda-lang/alda
+[Aubio]: https://aubio.org
+[Band.js]: https://github.com/meenie/band.js
+[Blip]: http://jshanley.github.io/blip
+[Dplug]: https://github.com/AuburnSounds/dplug
+[Euterpea]: http://www.euterpea.com
+[Faust]: https://faust.grame.fr
+[FourVoices]: https://github.com/erickim555/FourVoices
+[Klasma]: https://github.com/hdgarrood/klasma
+[Leipzig]: https://github.com/ctford/leipzig
+[libsoundio]: http://libsound.io
+[LickCreator]: https://twitter.com/lickcreator
+[Magenta]: https://magenta.tensorflow.org
+[Magiclock]: https://github.com/faroit/magiclock
+[meSing.js]: https://github.com/usdivad/mesing
+[Microm]: https://github.com/zzarcon/microm
+[Music Suite]: http://music-suite.github.io
+[Node Speaker]: https://github.com/TooTallNate/node-speaker
+[Octavian]: https://github.com/stevekinney/octavian
+[Overtone]: https://github.com/overtone/overtone
+[Pedalboard.js]: https://github.com/dashersw/pedalboard.js
+[React Music]: https://github.com/FormidableLabs/react-music
+[React]: https://reactjs.org/
+[Sharp11]: https://github.com/jsrmath/sharp11
+[Slang]: http://slang.kylestetz.com
+[Step Sequencer]: https://github.com/bholtbholt/step-sequencer
+[Teoria]: https://github.com/saebekassebil/teoria
+[TidalCycles]: https://tidalcycles.org
+[timbre.js]: https://mohayonao.github.io/timbre.js/
+[Tonal]: https://github.com/danigb/tonal
+[Tone.js]: https://github.com/Tonejs/Tone.js
+[Tuna]: https://github.com/Theodeus/tuna
+[VCV Rack]: https://vcvrack.com
+[Vexwarp]: https://github.com/0xfe/vexwarp
+[Vivid]: https://vivid-synth.com
+
+
+### Apps
+
+- [Auxy] - Modern instruments for mobile creators.
+- [Composer's Sketchpad] - Sequencer that combines musical staff paper
+    with an artist's sketchbook (iOS only).
+- [SeekMIDI] - Graphical multi channel MIDI sequencer.
+- [Seq24] - Minimal loop based midi sequencer.
+- [SFZ Designer] - Visual sample mapping tool to create SFZ files.
+
+[Auxy]: http://auxy.co
+[Composer's Sketchpad]: http://composerssketchpad.com
+[SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
+[Seq24]: http://filter24.org/seq24/
+[SFZ Designer]: http://mildon.me/sfzdesigner
+
+
+### Webapps
+
+- [108] - Minimal beat machine.
+- [AI Duet] - A smart piano that responds to you.
+- [Arpeggiator] - Web Audio Arpeggiator.
+- [Baroque Dances] - Procedurally generated classical music.
+- [Beat Push] - Online music production with built-in
+    parallel drum and synth machine.
+- [beatboxer] - Simple drum machine.
+- [BlokDust] - Interactive music-making app to build synths and sounds.
+- [Djenerator] - A metal breakdown generator.
+- [Funklet] - Drum machine and library of famous drum patterns.
+- [Jamwithchrome] - Play music live with your friends online.
+- [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
+- [Klangmeister] - Live coding environment for the browser.
+- [Landr] - Automatic audio mastering.
+- [Lissajous] - A tool for programmatic audio performance in the browser.
+- [Loopjs] - Live Electronic Music Performance Software.
+- [Looplabs] - Cloud based music studio.
+- [Matrix Piano] - Virtual 2D piano to use the PC keyboard as an instrument.
+- [Musical Chord Progression Arpeggiator] -
+    Sketch out musical chord progressions.
+- [Piano Genie] - Machine learning augmented piano app.
+- [Reactor] - Online DJ controller connected to SoundCloud.
+- [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
+- [Sononym] - Visual sample browser.
+- [Splice] - Music creation and collaboration platform.
+- [SuperCollider] - Platform for audio synthesis and algorithmic composition.
+- [Synth Time] - Simple synthesizer.
+- [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
+- [TimeStretch] - Online tool to loop, speed up, slow down,
+    and pitch shift sections of an audio file.
+- [Websynths] - Free browser-based microtonal midi instrument.
+- [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
+- [Qwerkey] - Keyboard tonnetz.
+
+[108]: https://martinwecke.de/108/
+[AI Duet]: https://experiments.withgoogle.com/ai-duet
+[Arpeggiator]: http://arpeggiator.desandro.com
+[Baroque Dances]: http://devinrothmusic.com/baroquedances/
+[Beat Push]: https://beatpush.com/
+[beatboxer]: https://sig.gy/beatboxer/
+[BlokDust]: https://blokdust.com
+[Djenerator]: http://djen.co
+[Funklet]: http://funklet.com
+[Jamwithchrome]: http://jamwithchrome.com
+[Keithwhor.com/music]: http://keithwhor.com/music
+[Klangmeister]: http://ctford.github.io/klangmeister
+[Landr]: https://www.landr.com
+[Lissajous]: https://github.com/kylestetz/lissajous
+[Loopjs]: http://loopjs.com
+[Looplabs]: https://looplabs.com
+[Matrix Piano]: http://www.markllet.de/matrix_piano/
+[Musical Chord Progression Arpeggiator]:
+    https://codepen.io/jakealbaugh/pen/qNrZyw
+[Piano Genie]: https://piano-genie.glitch.me
+[Reactor]: https://lukeandersen.github.io/reactor
+[Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
+[Sononym]: https://www.sononym.net
+[Splice]: https://splice.com
+[SuperCollider]: https://supercollider.github.io
+[Synth Time]: http://codepen.io/mattgreenberg/pen/gPdqBb
+[Synthi-JS]: http://alexnisnevich.github.io/synthi-js
+[TimeStretch]: https://29a.ch/timestretch/
+[Websynths]: http://websynths.com
+[Qwerkey]: http://some1else.github.io/qwerkey
+[QuasiMusic]: http://www.gregegan.net/APPLETS/34/34.html
+
+
+### Guitar
+
+- [Chordata] - A dummy chordbook for mandolin, ukulele and guitar.
+- [Fretboard]
+- [UkeGeeks] - Creates fingering diagrams by reading plain text
+    or ChordPro ukulele songs.
+- [UkuleleSongbook]
+- [Ukutabs] - source for ukulele tabs, chords, tips, tools, guides
+
+[Chordata]: https://github.com/starenka/chordata
+[Fretboard]: https://github.com/AlexMost/fretboard
+[UkeGeeks]: https://github.com/buzcarter/UkeGeeks
+[UkuleleSongbook]: https://github.com/casertap/UkuleleSongbook
+[Ukutabs]: https://ukutabs.com
 
 
 ## Hardware
@@ -103,186 +284,9 @@ A curated list of software and resources to create music.
 [OTTO]: https://github.com/topisani/OTTO
 
 
-## Software Libraries
-
-- [Alda] - A music programming language for musicians.
-- [Aubio] - Segmentation, pitch detection, tapping the beat
-    and producing midi streams.
-- [Band.js] - Music composer interface for the Web Audio API.
-- [Blip] - Looping and sampling with the Web Audio API.
-- [Dplug] - Library to make audio plug-ins with the D programming language.
-- [Euterpea] - In Haskell embedded language for computer music applications.
-- [Faust] - Functional programming language
-    for sound synthesis and audio processing.
-- [FourVoices] - Automatic music generator for four-part writing.
-- [Klasma] - Chiptune music composition kit.
-- [libsoundio] - Cross platform audio input and output library.
-- [LickCreator] - Online web based music notation.
-- [Leipzig] - Composition library for Clojure and ClojureScript.
-- [Magenta] - Music and Art Generation with Machine Intelligence.
-- [Magiclock] - Feel MIDI clock beat via the magic trackpad.
-- [meSing.js] - JavaScript singing synthesis library.
-- [Microm] - JavaScript library to convert browser microphone to mp3.
-- [Music Suite] - Haskell based language for describing music.
-- [Node Speaker] - Output PCM audio data to the speakers.
-- [Octavian] - Utility to reason about notes, frequencies, and intervals.
-- [Overtone] - Open Source toolkit for designing synthesizers
-    and collaborating with music.
-- [Pedalboard.js] - JavaScript framework to develop audio effects for guitars.
-- [React Music] - Create beats with [React].
-- [Sharp11] - Music theorization and improvisation engine.
-- [Slang] - Simple audio programming language implemented in JavaScript.
-- [Step Sequencer] - Elm step sequencer for programming drum beats.
-- [Teoria] - JavaScript library for music theory.
-- [TidalCycles] - Programming language to describe polyphonic, polyrhythmic,
-    and generative music sequences.
-- [timbre.js] - JavaScript library for objective sound programming.
-- [Tonal] - Functional music theory library.
-- [Tone.js] - A Web Audio framework for making interactive music in the browser.
-- [Tuna] - An audio effects library for the Web Audio API.
-- [VCV Rack] - Open source virtual modular synthesizer.
-- [Vexwarp] - JavaSCript library for audio time stretching and pitch shifting.
-- [Vivid] - High quality audio in Haskell with SuperCollider.
-
-[Alda]: https://github.com/alda-lang/alda
-[Aubio]: https://aubio.org
-[Band.js]: https://github.com/meenie/band.js
-[Blip]: http://jshanley.github.io/blip
-[Dplug]: https://github.com/AuburnSounds/dplug
-[Euterpea]: http://www.euterpea.com
-[Faust]: https://faust.grame.fr
-[FourVoices]: https://github.com/erickim555/FourVoices
-[Klasma]: https://github.com/hdgarrood/klasma
-[Leipzig]: https://github.com/ctford/leipzig
-[libsoundio]: http://libsound.io
-[LickCreator]: https://twitter.com/lickcreator
-[Magenta]: https://magenta.tensorflow.org
-[Magiclock]: https://github.com/faroit/magiclock
-[meSing.js]: https://github.com/usdivad/mesing
-[Microm]: https://github.com/zzarcon/microm
-[Music Suite]: http://music-suite.github.io
-[Node Speaker]: https://github.com/TooTallNate/node-speaker
-[Octavian]: https://github.com/stevekinney/octavian
-[Overtone]: https://github.com/overtone/overtone
-[Pedalboard.js]: https://github.com/dashersw/pedalboard.js
-[React Music]: https://github.com/FormidableLabs/react-music
-[React]: https://reactjs.org/
-[Sharp11]: https://github.com/jsrmath/sharp11
-[Slang]: http://slang.kylestetz.com
-[Step Sequencer]: https://github.com/bholtbholt/step-sequencer
-[Teoria]: https://github.com/saebekassebil/teoria
-[TidalCycles]: https://tidalcycles.org
-[timbre.js]: https://mohayonao.github.io/timbre.js/
-[Tonal]: https://github.com/danigb/tonal
-[Tone.js]: https://github.com/Tonejs/Tone.js
-[Tuna]: https://github.com/Theodeus/tuna
-[VCV Rack]: https://vcvrack.com
-[Vexwarp]: https://github.com/0xfe/vexwarp
-[Vivid]: https://vivid-synth.com
-
-
-## Apps
-
-- [Auxy] - Modern instruments for mobile creators.
-- [Composer's Sketchpad] - Sequencer that combines musical staff paper
-    with an artist's sketchbook (iOS only).
-- [SeekMIDI] - Graphical multi channel MIDI sequencer.
-- [Seq24] - Minimal loop based midi sequencer.
-- [SFZ Designer] - Visual sample mapping tool to create SFZ files.
-
-[Auxy]: http://auxy.co
-[Composer's Sketchpad]: http://composerssketchpad.com
-[SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
-[Seq24]: http://filter24.org/seq24/
-[SFZ Designer]: http://mildon.me/sfzdesigner
-
-
-## Webapps
-
-- [108] - Minimal beat machine.
-- [AI Duet] - A smart piano that responds to you.
-- [Arpeggiator] - Web Audio Arpeggiator.
-- [Baroque Dances] - Procedurally generated classical music.
-- [Beat Push] - Online music production with built-in
-    parallel drum and synth machine.
-- [beatboxer] - Simple drum machine.
-- [BlokDust] - Interactive music-making app to build synths and sounds.
-- [Djenerator] - A metal breakdown generator.
-- [Funklet] - Drum machine and library of famous drum patterns.
-- [Jamwithchrome] - Play music live with your friends online.
-- [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
-- [Klangmeister] - Live coding environment for the browser.
-- [Landr] - Automatic audio mastering.
-- [Lissajous] - A tool for programmatic audio performance in the browser.
-- [Loopjs] - Live Electronic Music Performance Software.
-- [Looplabs] - Cloud based music studio.
-- [Matrix Piano] - Virtual 2D piano to use the PC keyboard as an instrument.
-- [Musical Chord Progression Arpeggiator] -
-    Sketch out musical chord progressions.
-- [Piano Genie] - Machine learning augmented piano app.
-- [Reactor] - Online DJ controller connected to SoundCloud.
-- [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
-- [Sononym] - Visual sample browser.
-- [Splice] - Music creation and collaboration platform.
-- [SuperCollider] - Platform for audio synthesis and algorithmic composition.
-- [Synth Time] - Simple synthesizer.
-- [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
-- [TimeStretch] - Online tool to loop, speed up, slow down,
-    and pitch shift sections of an audio file.
-- [Websynths] - Free browser-based microtonal midi instrument.
-- [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
-- [Qwerkey] - Keyboard tonnetz.
-
-[108]: https://martinwecke.de/108/
-[AI Duet]: https://experiments.withgoogle.com/ai-duet
-[Arpeggiator]: http://arpeggiator.desandro.com
-[Baroque Dances]: http://devinrothmusic.com/baroquedances/
-[Beat Push]: https://beatpush.com/
-[beatboxer]: https://sig.gy/beatboxer/
-[BlokDust]: https://blokdust.com
-[Djenerator]: http://djen.co
-[Funklet]: http://funklet.com
-[Jamwithchrome]: http://jamwithchrome.com
-[Keithwhor.com/music]: http://keithwhor.com/music
-[Klangmeister]: http://ctford.github.io/klangmeister
-[Landr]: https://www.landr.com
-[Lissajous]: https://github.com/kylestetz/lissajous
-[Loopjs]: http://loopjs.com
-[Looplabs]: https://looplabs.com
-[Matrix Piano]: http://www.markllet.de/matrix_piano/
-[Musical Chord Progression Arpeggiator]:
-    https://codepen.io/jakealbaugh/pen/qNrZyw
-[Piano Genie]: https://piano-genie.glitch.me
-[Reactor]: https://lukeandersen.github.io/reactor
-[Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
-[Sononym]: https://www.sononym.net
-[Splice]: https://splice.com
-[SuperCollider]: https://supercollider.github.io
-[Synth Time]: http://codepen.io/mattgreenberg/pen/gPdqBb
-[Synthi-JS]: http://alexnisnevich.github.io/synthi-js
-[TimeStretch]: https://29a.ch/timestretch/
-[Websynths]: http://websynths.com
-[Qwerkey]: http://some1else.github.io/qwerkey
-[QuasiMusic]: http://www.gregegan.net/APPLETS/34/34.html
-
-
-## Guitar
-
-- [Chordata] - A dummy chordbook for mandolin, ukulele and guitar.
-- [Fretboard]
-- [UkeGeeks] - Creates fingering diagrams by reading plain text
-    or ChordPro ukulele songs.
-- [UkuleleSongbook]
-- [Ukutabs] - source for ukulele tabs, chords, tips, tools, guides
-
-[Chordata]: https://github.com/starenka/chordata
-[Fretboard]: https://github.com/AlexMost/fretboard
-[UkeGeeks]: https://github.com/buzcarter/UkeGeeks
-[UkuleleSongbook]: https://github.com/casertap/UkuleleSongbook
-[Ukutabs]: https://ukutabs.com
-
-
 ## Knowledge
+
+### Misc
 
 - [Digital Filters Introduction] - Jupyter notebooks
     and a geometric interpretation of digital audio filters.
@@ -295,7 +299,7 @@ A curated list of software and resources to create music.
 [youtube.com/i_0DXxNeaQ0]: http://youtube.com/watch?v=i_0DXxNeaQ0
 
 
-## Articles
+### Articles
 
 - [Detecting piano notes with web audio][detect-notes]
 - [DeepAudioClassification] - Finding the genre of a song with deep learning.
@@ -320,7 +324,7 @@ A curated list of software and resources to create music.
     https://becominghuman.ai/visual-music-machine-learning-workshop-for-kids-a90c957dab33
 
 
-## Research
+### Research
 
 - [Harmony Explained] - Progress towards a scientific theory of music.
 - [Musical User Interfaces] - Rethink how audio software is designed.
