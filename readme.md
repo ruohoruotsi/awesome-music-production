@@ -1,7 +1,25 @@
 # Awesome Music Production
 
-A curated list of software, hardware and other resources to create music.
+A curated list of software, hardware, and other resources to create music.
 
+<!-- toc -->
+
+- [Software](#software)
+  - [Audio Workstations](#audio-workstations)
+  - [Libraries](#libraries)
+  - [Apps](#apps)
+  - [Webapps](#webapps)
+  - [Guitar](#guitar)
+- [Hardware](#hardware)
+  - [Synthesizers](#synthesizers)
+  - [MIDI Controllers](#midi-controllers)
+  - [Instruments](#instruments)
+- [Knowledge](#knowledge)
+  - [Misc](#misc)
+  - [Articles](#articles)
+  - [Research](#research)
+
+<!-- tocstop -->
 
 ## Software
 
