@@ -237,13 +237,11 @@ A curated list of software, hardware, and other resources to create music.
 - [Fretboard]
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
     or ChordPro ukulele songs.
-- [UkuleleSongbook]
 - [Ukutabs] - source for ukulele tabs, chords, tips, tools, guides
 
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
-[UkuleleSongbook]: https://github.com/casertap/UkuleleSongbook
 [Ukutabs]: https://ukutabs.com
 
 
