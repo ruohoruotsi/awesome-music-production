@@ -139,8 +139,10 @@ A curated list of software, hardware, and other resources to create music.
 
 - [Amsynth] - Synthesizer with a classic subtractive synthesizer topology.
 - [Surge Synthesizer] - Open source digital synthesizer.
+- [NSynth Super] - Open source AI synth from the Google Magenta team.
 
 [Amsynth]: https://amsynth.github.io
+[NSynth Super]: https://nsynthsuper.withgoogle.com/
 [Surge Synthesizer]:  https://surge-synthesizer.github.io
 
 
