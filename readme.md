@@ -7,11 +7,16 @@ A curated list of software, hardware, and other resources to create music.
 - [Software](#software)
   - [Audio Workstations](#audio-workstations)
   - [Libraries](#libraries)
+  - [Synthesizers](#synthesizers)
   - [Apps](#apps)
   - [Webapps](#webapps)
+  - [Virtual Reality](#virtual-reality)
   - [Guitar](#guitar)
+- [Services](#services)
+  - [Music Distribution](#music-distribution)
+- [Datasets](#datasets)
 - [Hardware](#hardware)
-  - [Synthesizers](#synthesizers)
+  - [Synthesizers](#synthesizers-1)
   - [MIDI Controllers](#midi-controllers)
   - [Instruments](#instruments)
 - [Knowledge](#knowledge)
@@ -69,12 +74,15 @@ A curated list of software, hardware, and other resources to create music.
 - [Music Suite] - Haskell based language for describing music.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Octavian] - Utility to reason about notes, frequencies, and intervals.
+- [Orca] - Esoteric programming language to create procedural sequencers.
 - [Overtone] - Open Source toolkit for designing synthesizers
     and collaborating with music.
 - [Pedalboard.js] - JavaScript framework to develop audio effects for guitars.
 - [React Music] - Create beats with [React].
+- [Repitch] - Real-time polyphonic MIDI-controlled audio pitch shifting.
 - [Sharp11] - Music theorization and improvisation engine.
 - [Slang] - Simple audio programming language implemented in JavaScript.
+- [Spleeter] - Source separation library (e.g. extract drums from a track).
 - [Step Sequencer] - Elm step sequencer for programming drum beats.
 - [Teoria] - JavaScript library for music theory.
 - [TidalCycles] - Programming language to describe polyphonic, polyrhythmic,
@@ -106,12 +114,15 @@ A curated list of software, hardware, and other resources to create music.
 [Music Suite]: http://music-suite.github.io
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Octavian]: https://github.com/stevekinney/octavian
+[Orca]: https://hundredrabbits.itch.io/orca
 [Overtone]: https://github.com/overtone/overtone
 [Pedalboard.js]: https://github.com/dashersw/pedalboard.js
 [React Music]: https://github.com/FormidableLabs/react-music
+[Repitch]: https://github.com/maxwellpollack/repitch
 [React]: https://reactjs.org/
 [Sharp11]: https://github.com/jsrmath/sharp11
 [Slang]: http://slang.kylestetz.com
+[Spleeter]: https://github.com/deezer/spleeter
 [Step Sequencer]: https://github.com/bholtbholt/step-sequencer
 [Teoria]: https://github.com/saebekassebil/teoria
 [TidalCycles]: https://tidalcycles.org
@@ -173,6 +184,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Matrix Piano] - Virtual 2D piano to use the PC keyboard as an instrument.
 - [Musical Chord Progression Arpeggiator] -
     Sketch out musical chord progressions.
+- [MyNoise] - Background noises and interactive soundscapes.
 - [Piano Genie] - Machine learning augmented piano app.
 - [Reactor] - Online DJ controller connected to SoundCloud.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
@@ -183,6 +195,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
 - [TimeStretch] - Online tool to loop, speed up, slow down,
     and pitch shift sections of an audio file.
+- [ToneBasic] - Programmatic sound generation in the browser.
 - [Websynths] - Free browser-based microtonal midi instrument.
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
 - [Qwerkey] - Keyboard tonnetz.
@@ -206,6 +219,7 @@ A curated list of software, hardware, and other resources to create music.
 [Matrix Piano]: http://www.markllet.de/matrix_piano/
 [Musical Chord Progression Arpeggiator]:
     https://codepen.io/jakealbaugh/pen/qNrZyw
+[MyNoise]: https://mynoise.net/
 [Piano Genie]: https://piano-genie.glitch.me
 [Reactor]: https://lukeandersen.github.io/reactor
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
@@ -215,6 +229,7 @@ A curated list of software, hardware, and other resources to create music.
 [Synth Time]: http://codepen.io/mattgreenberg/pen/gPdqBb
 [Synthi-JS]: http://alexnisnevich.github.io/synthi-js
 [TimeStretch]: https://29a.ch/timestretch/
+[ToneBasic]: https://tonebasic--enchanter.repl.co/
 [Websynths]: http://websynths.com
 [Qwerkey]: http://some1else.github.io/qwerkey
 [QuasiMusic]: http://www.gregegan.net/APPLETS/34/34.html
@@ -222,13 +237,21 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Virtual Reality
 
+- [Block Rocking Beats] - Play with music in a virtual sound studio.
 - [Electronauts] - DJ simulation with 8 digital instruments.
+- [Exa] - The infinite instrument.
 - [Lyra VR] - Room scale music creation app.
+- [Modulia Studio] - App for music creation and performance.
 - [Paradiddle] - Virtual reality drum kit.
+- [SoundStage] - Music sandbox built specifically for room-scale VR.
 
+[Block Rocking Beats]: http://www.blockrockingbeats.com/
 [Electronauts]: https://survios.com/electronauts/
+[Exa]: https://store.steampowered.com/app/606920/EXA_The_Infinite_Instrument/
 [Lyra VR]: https://lyravr.com
+[Modulia Studio]: https://www.modulia-studio.com/
 [Paradiddle]: http://paradiddleapp.com
+[SoundStage]: https://sidequestvr.com/#/app/360
 
 
 ### Guitar
@@ -245,6 +268,38 @@ A curated list of software, hardware, and other resources to create music.
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
 [UkuleleSongbook]: https://github.com/casertap/UkuleleSongbook
 [Ukutabs]: https://ukutabs.com
+
+
+## Services
+
+### Music Distribution
+
+- [ReverbNation]
+- [TuneCore]
+- [DittoMusic]
+- [SoundCloud]
+- [Octiive]
+- [BandCamp]
+- [DistroKid]
+- [RecordJet]
+- [Spinnup]
+
+[ReverbNation]: https://www.reverbnation.com
+[TuneCore]: https://www.tunecore.com
+[DittoMusic]: https://www.dittomusic.com
+[SoundCloud]: https://www.soundcloud.com
+[Octiive]: https://www.octiive.com
+[BandCamp]: https://bandcamp.com
+[DistroKid]: https://distrokid.com
+[RecordJet]: https://www.recordjet.com
+[Spinnup]: https://spinnup.com
+
+
+## Datasets
+
+- [SigSep] - Publicly available datasets for research on source separation.
+
+[SigSep]: https://sigsep.github.io/
 
 
 ## Hardware
@@ -294,6 +349,7 @@ A curated list of software, hardware, and other resources to create music.
 - [QuNexus] - Small and portable MPE keyboard.
 - [ROLI Blocks] - Portable snap-together MIDI controller
     with both desktop and mobile interfaces.
+- [DIY Controller] - DIY midi controller with simple buttons.
 
 [Artiphon]: https://artiphon.com
 [Bela]: https://bela.io
@@ -315,16 +371,19 @@ A curated list of software, hardware, and other resources to create music.
 [Poly Expressive]: https://www.polyeffects.com/pages/expressive
 [QuNexus]: https://www.keithmcmillen.com/products/qunexus/
 [ROLI Blocks]: https://roli.com/products/blocks/
+[DIY Controller]: https://hackaday.com/2019/07/15/getting-midi-under-control/
 
 
 ### Instruments
 
+- [Chapman Stick] - 8, 10, or 12 string fretboard tapping instrument.
 - [Harpejji] - Electric stringed musical instrument.
 - [Karlax] - Multi sensor expressive Clarinette like instrument.
 - [Keytam] - Tunable guitar-tambourine hybrid.
 - [Musical Instrument Challenge][inst-challenge] - List of DIY instruments.
 - [OTTO] - Sampler, sequencer, multi-engine synth and effects in a box.
 
+[Chapman Stick]: http://stick.com/
 [Harpejji]: https://www.marcodi.com/collections/standard-series
 [inst-challenge]: https://hackaday.io/submissions/prize2018_instrument/list
 [Karlax]: http://www.dafact.com
@@ -351,10 +410,12 @@ A curated list of software, hardware, and other resources to create music.
 
 - [Detecting piano notes with web audio][detect-notes]
 - [DeepAudioClassification] - Finding the genre of a song with deep learning.
+- [Learning Synths] - Learn the basics of using synthesizers.
 - [Modeling Music with algebraic data types][modeling-music]
 - [Musimathics] - The mathematical foundations of music.
 - [Sound, Motion, Notation] - Information and Art.
 - [Terry Riley's "In C"] - A Journey Through a Musical Possibility Space.
+- [Theory Pages] - Music Theory for Musicians and Normal People.
 - [Training a Recurrent Neural Network to Compose Music][abc-rnn]
 - [Visual Music & Machine Learning Workshop for Kids][vm-workshop]
 
@@ -362,12 +423,14 @@ A curated list of software, hardware, and other resources to create music.
 [DeepAudioClassification]:
     https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194
 [detect-notes]: https://hackernoon.com/a-web-audio-experiment-666743e16679
+[Learning Synths]: https://learningsynths.ableton.com/
 [modeling-music]: https://reasonablypolymorphic.com/blog/modeling-music/
 [Musimathics]: http://www.musimathics.com/
 [Sound, Motion, Notation]:
     https://nextjournal.com/schmudde/sound-motion-notation
 [Terry Riley's "In C"]:
     http://teropa.info/blog/2017/01/23/terry-rileys-in-c.html
+[Theory Pages]: https://tobyrush.com/theorypages/index.html
 [vm-workshop]:
     https://becominghuman.ai/visual-music-machine-learning-workshop-for-kids-a90c957dab33
 
