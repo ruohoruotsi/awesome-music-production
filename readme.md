@@ -157,6 +157,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
+- [Spire] - iOS multitrack recording app with FX & mixing features
 - [SFZ Designer] - Visual sample mapping tool to create SFZ files.
 
 [Auxy]: http://auxy.co
@@ -164,6 +165,7 @@ A curated list of software, hardware, and other resources to create music.
 [Melodics]: https://melodics.com
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: http://filter24.org/seq24/
+[Spire]: https://apps.apple.com/us/app/spire-music-recorder/id1013021109
 [SFZ Designer]: http://mildon.me/sfzdesigner
 
 
