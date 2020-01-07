@@ -299,6 +299,12 @@ A curated list of software, hardware, and other resources to create music.
 [RecordJet]: https://www.recordjet.com
 [Spinnup]: https://spinnup.com
 
+### Management
+
+- [SongRiffer] - Organize and browse riffs and song ideas.
+
+[SongRiffer]: https://songriffer.com/
+
 
 ## Datasets
 
