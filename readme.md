@@ -404,11 +404,13 @@ A curated list of software, hardware, and other resources to create music.
     and a geometric interpretation of digital audio filters.
 - [Music Theory] - The exciting universe of music theory.
 - [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
+- [Sound hacking and music technologies]
 
 [Digital Filters Introduction]:
     https://karlhiner.com/jupyter_notebooks/intro_to_digital_filters/
 [Music Theory]: https://ianring.com/musictheory/
 [youtube.com/i_0DXxNeaQ0]: http://youtube.com/watch?v=i_0DXxNeaQ0
+[Sound hacking and music technologies]: https://youtu.be/v9uE2nHAGb8
 
 
 ### Articles
