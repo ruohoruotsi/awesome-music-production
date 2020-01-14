@@ -418,12 +418,15 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Misc
 
+- [Awesome Sheet Music] - Curated list of tools to create,
+    edit, and display sheet music.
 - [Digital Filters Introduction] - Jupyter notebooks
     and a geometric interpretation of digital audio filters.
 - [Music Theory] - The exciting universe of music theory.
 - [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
 - [Sound hacking and music technologies]
 
+[Awesome Sheet Music]: https://github.com/ad-si/awesome-sheet-music
 [Digital Filters Introduction]:
     https://karlhiner.com/jupyter_notebooks/intro_to_digital_filters/
 [Music Theory]: https://ianring.com/musictheory/
