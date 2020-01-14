@@ -36,9 +36,11 @@ A curated list of software, hardware, and other resources to create music.
 - [Cubase]
 - [Garage Band]
 - [Giada] - Minimal audio tool for DJs, live performers and musicians.
+- [GridSound] - Free online DAW implemented with the Web Audio API.
 - [Logic Pro X]
 - [Pro Tools]
 - [Reaper] - Complete digital audio production app for Windows and macOS.
+- [Rytmik Studio] - Music creation software.
 
 [Ableton]: https://ableton.com/live
 [Ardour]: https://ardour.org
@@ -46,9 +48,11 @@ A curated list of software, hardware, and other resources to create music.
 [Cubase]: http://steinberg.net/en/products/cubase
 [Garage Band]: https://apple.com/mac/garageband
 [Giada]: https://www.giadamusic.com
+[GridSound]: https://github.com/gridsound/daw
 [Logic Pro X]: https://apple.com/logic-pro
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Reaper]: http://reaper.fm
+[Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
 
 
 ### Libraries
@@ -141,10 +145,12 @@ A curated list of software, hardware, and other resources to create music.
 ### Synthesizers
 
 - [Amsynth] - Synthesizer with a classic subtractive synthesizer topology.
+- [Helm] - GPL licensed polyphonic synth with lots of modulation.
 - [Surge Synthesizer] - Open source digital synthesizer.
 - [NSynth Super] - Open source AI synth from the Google Magenta team.
 
 [Amsynth]: https://amsynth.github.io
+[Helm]: https://tytel.org/helm/
 [NSynth Super]: https://nsynthsuper.withgoogle.com/
 [Surge Synthesizer]:  https://surge-synthesizer.github.io
 
@@ -154,17 +160,23 @@ A curated list of software, hardware, and other resources to create music.
 - [Auxy] - Modern instruments for mobile creators.
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
     with an artist's sketchbook (iOS only).
+- [Luna] - MIDI sequencer.
 - [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
+- [Midica] - Music programming language and desktop app for MIDI generation.
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
-- [Spire] - iOS multitrack recording app with FX & mixing features
+- [Sonic Pi] - Live coding music synth for everyone.
+- [Spire] - iOS multitrack recording app with FX & mixing features.
 - [SFZ Designer] - Visual sample mapping tool to create SFZ files.
 
+[Midica]: http://www.midica.org
 [Auxy]: http://auxy.co
 [Composer's Sketchpad]: http://composerssketchpad.com
+[Luna]: https://github.com/clarityflowers/luna
 [Melodics]: https://melodics.com
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: http://filter24.org/seq24/
+[Sonic Pi]: https://github.com/samaaron/sonic-pi
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder/id1013021109
 [SFZ Designer]: http://mildon.me/sfzdesigner
 
