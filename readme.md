@@ -207,6 +207,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Piano Genie] - Machine learning augmented piano app.
 - [Reactor] - Online DJ controller connected to SoundCloud.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
+- [Song Maker] - Simple step sequencer.
 - [Sononym] - Visual sample browser.
 - [Splice] - Music creation and collaboration platform.
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
@@ -242,6 +243,7 @@ A curated list of software, hardware, and other resources to create music.
 [Piano Genie]: https://piano-genie.glitch.me
 [Reactor]: https://lukeandersen.github.io/reactor
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
+[Song Maker]: https://musiclab.chromeexperiments.com/Song-Maker/
 [Sononym]: https://www.sononym.net
 [Splice]: https://splice.com
 [SuperCollider]: https://supercollider.github.io
@@ -288,6 +290,15 @@ A curated list of software, hardware, and other resources to create music.
 
 
 ## Services
+
+### AI Music Creation
+
+- Amper
+- Jukedeck
+- Melodrive
+- Humtap
+- Popgun
+
 
 ### Music Distribution
 
@@ -418,15 +429,20 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Misc
 
+- [Audio Working Group] - Add advanced sound & music synthesis capabilities
+    to the Open Web Platform.
 - [Awesome Sheet Music] - Curated list of tools to create,
     edit, and display sheet music.
+- [Awesome WebAudio] - A curated list of awesome WebAudio packages and demos.
 - [Digital Filters Introduction] - Jupyter notebooks
     and a geometric interpretation of digital audio filters.
 - [Music Theory] - The exciting universe of music theory.
 - [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
 - [Sound hacking and music technologies]
 
+[Audio Working Group]: https://www.w3.org/2011/audio/
 [Awesome Sheet Music]: https://github.com/ad-si/awesome-sheet-music
+[Awesome WebAudio]: https://github.com/notthetup/awesome-webaudio
 [Digital Filters Introduction]:
     https://karlhiner.com/jupyter_notebooks/intro_to_digital_filters/
 [Music Theory]: https://ianring.com/musictheory/
