@@ -16,12 +16,15 @@ Check it out at [leomask.com](https://leomask.com)
   - [Virtual Reality](#virtual-reality)
   - [Guitar](#guitar)
 - [Services](#services)
+  - [AI Music Creation](#ai-music-creation)
   - [Music Distribution](#music-distribution)
+  - [Management](#management)
 - [Datasets](#datasets)
 - [Hardware](#hardware)
   - [Synthesizers](#synthesizers-1)
   - [MIDI Controllers](#midi-controllers)
   - [Instruments](#instruments)
+- [Community](#community)
 - [Knowledge](#knowledge)
   - [Misc](#misc)
   - [Articles](#articles)
@@ -87,12 +90,14 @@ Check it out at [leomask.com](https://leomask.com)
 - [Overtone] - Open Source toolkit for designing synthesizers
     and collaborating with music.
 - [Pedalboard.js] - JavaScript framework to develop audio effects for guitars.
-- [PitchFinder] & [Node PitchFinder] - Javascript (and node c++ addon) with pitch detection algorithms
+- [PitchFinder] & [Node PitchFinder] - Javascript (and node c++ addon)
+    with pitch detection algorithms
 - [React Music] - Create beats with [React].
 - [Repitch] - Real-time polyphonic MIDI-controlled audio pitch shifting.
 - [Scribbletune] - Create music with JavaScript.
 - [Sharp11] - Music theorization and improvisation engine.
 - [Slang] - Simple audio programming language implemented in JavaScript.
+- [Spectmorph] - Analyze samples of instruments, and combine (morph) them.
 - [Spleeter] - Source separation library (e.g. extract drums from a track).
 - [Step Sequencer] - Elm step sequencer for programming drum beats.
 - [Teoria] - JavaScript library for music theory.
@@ -136,6 +141,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Scribbletune]: https://github.com/scribbletune/scribbletune
 [Sharp11]: https://github.com/jsrmath/sharp11
 [Slang]: http://slang.kylestetz.com
+[Spectmorph]: http://www.spectmorph.org
 [Spleeter]: https://github.com/deezer/spleeter
 [Step Sequencer]: https://github.com/bholtbholt/step-sequencer
 [Teoria]: https://github.com/saebekassebil/teoria
@@ -164,28 +170,36 @@ Check it out at [leomask.com](https://leomask.com)
 
 ### Apps
 
+- [Agordejo] - Music production session manager.
 - [Auxy] - Modern instruments for mobile creators.
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
     with an artist's sketchbook (iOS only).
+- [Fluajho] - Simple SF2 soundfont host and player for Linux.
+- [Laborejo] - MIDI sequencer based on classical music notation.
 - [Luna] - MIDI sequencer.
 - [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
 - [Midica] - Music programming language and desktop app for MIDI generation.
+- [Patroneo] - Simple pattern based midi sequencer.
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
+- [SFZ Designer] - Visual sample mapping tool to create SFZ files.
 - [Sonic Pi] - Live coding music synth for everyone.
 - [Spire] - iOS multitrack recording app with FX & mixing features.
-- [SFZ Designer] - Visual sample mapping tool to create SFZ files.
 
-[Midica]: http://www.midica.org
+[Agordejo]: https://www.laborejo.org/agordejo/
 [Auxy]: http://auxy.co
 [Composer's Sketchpad]: http://composerssketchpad.com
+[Fluajho]: https://www.laborejo.org/fluajho/
+[Laborejo]: https://www.laborejo.org/laborejo/
 [Luna]: https://github.com/clarityflowers/luna
 [Melodics]: https://melodics.com
+[Midica]: http://www.midica.org
+[Patroneo]: https://www.laborejo.org/patroneo/
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: http://filter24.org/seq24/
+[SFZ Designer]: http://mildon.me/sfzdesigner
 [Sonic Pi]: https://github.com/samaaron/sonic-pi
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder/id1013021109
-[SFZ Designer]: http://mildon.me/sfzdesigner
 
 
 ### Webapps
@@ -272,6 +286,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Modulia Studio] - App for music creation and performance.
 - [Paradiddle] - Virtual reality drum kit.
 - [SoundStage] - Music sandbox built specifically for room-scale VR.
+- [Synthspace] - Modular synth VR environment.
 
 [Block Rocking Beats]: http://www.blockrockingbeats.com/
 [Electronauts]: https://survios.com/electronauts/
@@ -280,12 +295,13 @@ Check it out at [leomask.com](https://leomask.com)
 [Modulia Studio]: https://www.modulia-studio.com/
 [Paradiddle]: http://paradiddleapp.com
 [SoundStage]: https://sidequestvr.com/#/app/360
+[Synthspace]: http://brightlight.rocks/synthspace/
 
 
 ### Guitar
 
 - [Chordata] - A dummy chordbook for mandolin, ukulele and guitar.
-- [Fretboard]
+- [Fretboard] - Online Guitar fretboard viewer to study scales and chords.
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
     or ChordPro ukulele songs.
 - [Ukutabs] - source for ukulele tabs, chords, tips, tools, guides
@@ -300,11 +316,17 @@ Check it out at [leomask.com](https://leomask.com)
 
 ### AI Music Creation
 
-- Amper
-- Jukedeck
-- Melodrive
-- Humtap
-- Popgun
+- [Amper]
+- [Jukedeck]
+- [Melodrive]
+- [Humtap]
+- [Popgun]
+
+[Amper]: https://www.ampermusic.com
+[Jukedeck]: https://www.jukedeck.com
+[Melodrive]: http://melodrive.com
+[Humtap]: https://www.humtap.com
+[Popgun]: https://popgun.ai
 
 
 ### Music Distribution
@@ -329,6 +351,7 @@ Check it out at [leomask.com](https://leomask.com)
 [RecordJet]: https://www.recordjet.com
 [Spinnup]: https://spinnup.com
 
+
 ### Management
 
 - [SongRiffer] - Organize and browse riffs and song ideas.
@@ -348,23 +371,23 @@ Check it out at [leomask.com](https://leomask.com)
 ### Synthesizers
 
 - [dadamachines] - Toolkit to create automated analog sounds.
-- [Modal 002R] - 8 or 12 voice digital/analogue hybrid 3U rack.
-- [Organelle] - Intuitive controls with a powerful and flexible sound engine.
-- [OP-1] - A powerful portable music workstation.
-    with sampler, multi-track support, and onboard synth generation.
-- [Pocket Operators] - Tiny, low-cost digital instruments.
 - [LittleBits Synth Kit] - Snap-together modular synthesizer
     built in partnership with KORG.
+- [Modal 002R] - 8 or 12 voice digital/analogue hybrid 3U rack.
+- [OP-1] - A powerful portable music workstation. with sampler,
+    multi-track support, and onboard synth generation.
+- [Organelle] - Intuitive controls with a powerful and flexible sound engine.
+- [Pocket Operators] - Tiny, low-cost digital instruments.
 - [ZynAddSubFX] - Polyphonic fully featured musical software synthesizer.
 - [Zynthian] - Open hardware swiss army knife of synthesis,
     equipped with multiple engines, filters and effects.
 
 [dadamachines]: https://dadamachines.com
-[Modal 002R]: https://www.modalelectronics.com/modal-002r
-[Organelle]: https://critterandguitari.com/products/organelle
-[OP-1]: https://www.teenageengineering.com/products/op-1
-[Pocket Operators]: https://www.teenageengineering.com/products/po
 [LittleBits Synth Kit]: https://shop.littlebits.cc/products/synth-kit
+[Modal 002R]: https://www.modalelectronics.com/modal-002r
+[OP-1]: https://www.teenageengineering.com/products/op-1
+[Organelle]: https://critterandguitari.com/products/organelle
+[Pocket Operators]: https://www.teenageengineering.com/products/po
 [ZynAddSubFX]: https://github.com/zynaddsubfx/zynaddsubfx
 [Zynthian]: http://zynthian.org
 
@@ -375,44 +398,52 @@ Check it out at [leomask.com](https://leomask.com)
 - [Bela] - Computing platform for creating responsive interactive applications.
 - [C-Thru Music Axis] - Hexagonal and harmonic table based controller.
 - [Continuum Fingerboard] - Linear piano like MPE playing surface.
+- [DIY Controller] - DIY midi controller with simple buttons.
 - [Dodeka Stellar] - Linear and isomorphic MIDI keyboard.
 - [dualo du-touch] - Accordion like controller with hexagonal pads.
 - [Eigenharp] - Grid, breath pipe, and touch strip enabled MPE instrument.
+- [Erea Touch] - Seamless polyphonic MIDI Controller with LED touch surface.
 - [Joué] - Expressive and modular MPE controller.
 - [LinnStrument] - Grid based expressive [MPE] controller.
 - [Mimu Gloves] - Expressive wearable musical instrument.
 - [Morph] - Expressive MPE touch controller with swappable hardware interfaces.
 - [MPK Mini mkII] - Cheap, functional, excellent starter controller.
 - [Neova] - Expressive finger ring.
+- [NuEVI] - Electronic valve instrument MIDI controller.
 - [Open Woodwind Project] - Electronic aerophone.
 - [OpenDeck] - Hardware platform to build custom MIDI controllers.
 - [Poly Expressive] - Foot controller.
 - [QuNexus] - Small and portable MPE keyboard.
 - [ROLI Blocks] - Portable snap-together MIDI controller
     with both desktop and mobile interfaces.
-- [DIY Controller] - DIY midi controller with simple buttons.
+- [XVI Desktop] - USB 16 Channel Fader Bank with CV, I2C, and MIDI.
 
 [Artiphon]: https://artiphon.com
 [Bela]: https://bela.io
 [C-Thru Music Axis]: http://c-thru-music.com
 [Continuum Fingerboard]: https://www.hakenaudio.com/continuum-fingerboard
+[DIY Controller]: https://hackaday.com/2019/07/15/getting-midi-under-control/
 [Dodeka Stellar]: https://www.dodekamusic.com/stellar/
 [dualo du-touch]: https://dualo.org
 [Eigenharp]: http://www.eigenlabs.com/info/
+[Erea Touch]: https://www.embodme.com/
 [Joué]: https://www.play-joue.com/en/
 [LinnStrument]: http://www.rogerlinndesign.com/linnstrument.html
 [Mimu Gloves]: https://mimugloves.com
 [Morph]: https://sensel.com/pages/the-sensel-morph
-[MPK Mini mkII]:
-    http://www.akaipro.com/products/keyboard-controllers/mpk-mini-mkii
 [MPE]: https://roli.com/mpe
+[MPK Mini mkII]:
+  http://www.akaipro.com/products/keyboard-controllers/mpk-mini-mkii
 [Neova]: https://www.enhancia.co
-[Open Woodwind Project]: https://hackaday.io/project/2992-the-open-woodwind-project
+[NuEVI]: http://berglundinstruments.mediarif.com/products/
+[Open Woodwind Project]:
+  https://hackaday.io/project/2992-the-open-woodwind-project
 [OpenDeck]: https://shanteacontrols.com
 [Poly Expressive]: https://www.polyeffects.com/pages/expressive
 [QuNexus]: https://www.keithmcmillen.com/products/qunexus/
 [ROLI Blocks]: https://roli.com/products/blocks/
-[DIY Controller]: https://hackaday.com/2019/07/15/getting-midi-under-control/
+[XVI Desktop]:
+  https://michigansynthworks.com/products/xvi-desktop-usb-16-channel-fader-bank-with-cv-i2c-and-midi
 
 
 ### Instruments
@@ -430,6 +461,13 @@ Check it out at [leomask.com](https://leomask.com)
 [Karlax]: http://www.dafact.com
 [Keytam]: https://www.keytam-drum.com
 [OTTO]: https://github.com/topisani/OTTO
+
+
+## Community
+
+- [Poly Expression] - Forum for expressive instruments and controllers.
+
+[Poly Expression]: https://community.polyexpression.com/
 
 
 ## Knowledge
@@ -472,28 +510,30 @@ Check it out at [leomask.com](https://leomask.com)
 
 [abc-rnn]: https://maraoz.com/2016/02/02/abc-rnn/
 [DeepAudioClassification]:
-    https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194
+  https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194
 [detect-notes]: https://hackernoon.com/a-web-audio-experiment-666743e16679
 [Learning Synths]: https://learningsynths.ableton.com/
 [modeling-music]: https://reasonablypolymorphic.com/blog/modeling-music/
 [Musimathics]: http://www.musimathics.com/
 [Sound, Motion, Notation]:
-    https://nextjournal.com/schmudde/sound-motion-notation
+  https://nextjournal.com/schmudde/sound-motion-notation
 [Terry Riley's "In C"]:
-    http://teropa.info/blog/2017/01/23/terry-rileys-in-c.html
+  http://teropa.info/blog/2017/01/23/terry-rileys-in-c.html
 [Theory Pages]: https://tobyrush.com/theorypages/index.html
 [vm-workshop]:
-    https://becominghuman.ai/visual-music-machine-learning-workshop-for-kids-a90c957dab33
+  https://becominghuman.ai/visual-music-machine-learning-workshop-for-kids-a90c957dab33
 
 
 ### Research
 
+- [Guthman Musical Instrument Competition]
 - [Harmony Explained] - Progress towards a scientific theory of music.
 - [Musical User Interfaces] - Rethink how audio software is designed.
 - [Universal Music Translation Network]
 - [Virtual Reality Musical Instruments:
     State of the Art, Design Principles, and Future Directions][VR Instruments]
 
+[Guthman Musical Instrument Competition]: https://guthman.gatech.edu
 [Harmony Explained]: https://arxiv.org/abs/1202.4212v2
 [Musical User Interfaces]: https://arthurcarabott.com/mui/
 [Universal Music Translation Network]:
