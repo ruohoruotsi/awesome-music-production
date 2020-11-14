@@ -71,6 +71,7 @@ Check it out at [leomask.com](https://leomask.com)
     and producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Looping and sampling with the Web Audio API.
+- [CSound] - A sound and music computing system.
 - [Dplug] - Library to make audio plug-ins with the D programming language.
 - [Euterpea] - In Haskell embedded language for computer music applications.
 - [Faust] - Functional programming language
@@ -92,6 +93,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Overtone] - Open Source toolkit for designing synthesizers
     and collaborating with music.
 - [Pedalboard.js] - JavaScript framework to develop audio effects for guitars.
+- [Pippi] - Computer music with python.
 - [PitchFinder] & [Node PitchFinder] - Javascript (and node c++ addon)
     with pitch detection algorithms
 - [React Music] - Create beats with [React].
@@ -119,6 +121,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
+[CSound]: https://csound.com/index.html
 [Dplug]: https://github.com/AuburnSounds/dplug
 [Euterpea]: http://www.euterpea.com
 [Faust]: https://faust.grame.fr
@@ -139,6 +142,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Orca]: https://hundredrabbits.itch.io/orca
 [Overtone]: https://github.com/overtone/overtone
 [Pedalboard.js]: https://github.com/dashersw/pedalboard.js
+[Pippi]: https://github.com/luvsound/pippi
 [PitchFinder]: https://github.com/peterkhayes/pitchfinder
 [React Music]: https://github.com/FormidableLabs/react-music
 [React]: https://reactjs.org/
@@ -167,11 +171,13 @@ Check it out at [leomask.com](https://leomask.com)
 - [Helm] - GPL licensed polyphonic synth with lots of modulation.
 - [Surge Synthesizer] - Open source digital synthesizer.
 - [NSynth Super] - Open source AI synth from the Google Magenta team.
+- [Yoshimi] - Software audio synthesizer.
 
 [Amsynth]: https://amsynth.github.io
 [Helm]: https://tytel.org/helm/
 [NSynth Super]: https://nsynthsuper.withgoogle.com/
 [Surge Synthesizer]:  https://surge-synthesizer.github.io
+[Yoshimi]: https://yoshimi.github.io/
 
 
 ### Apps
@@ -183,11 +189,15 @@ Check it out at [leomask.com](https://leomask.com)
 - [Dragonfly Reverb] - Open source audio effects for Linux, macOS, and Windows.
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
 - [IXI Programs] - Apps for creating musical instruments and environments.
+- [KXStudio] - Collection of applications and plugins for audio production.
 - [Laborejo] - MIDI sequencer based on classical music notation.
 - [Luna] - MIDI sequencer.
+- [Max] - Visual programming language for music and multimedia creation.
 - [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
 - [Midica] - Music programming language and desktop app for MIDI generation.
+- [Ninjas 2] - Sample slicer audio plugin and standalone app.
 - [Patroneo] - Simple pattern based midi sequencer.
+- [Samplr] - Multi-touch music making app for iPad.
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
 - [SFZ Designer] - Visual sample mapping tool to create SFZ files.
@@ -200,11 +210,15 @@ Check it out at [leomask.com](https://leomask.com)
 [Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
 [Fluajho]: https://www.laborejo.org/fluajho/
 [IXI Programs]: http://www.ixi-audio.net/content/software.html
+[KXStudio]: https://kx.studio
 [Laborejo]: https://www.laborejo.org/laborejo/
 [Luna]: https://github.com/clarityflowers/luna
+[Max]: https://cycling74.com/products/max
 [Melodics]: https://melodics.com
 [Midica]: http://www.midica.org
+[Ninjas 2]: https://github.com/clearly-broken-software/ninjas2
 [Patroneo]: https://www.laborejo.org/patroneo/
+[Samplr]: http://samplr.net
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: http://filter24.org/seq24/
 [SFZ Designer]: http://mildon.me/sfzdesigner
@@ -505,6 +519,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Digital Filters Introduction] - Jupyter notebooks
     and a geometric interpretation of digital audio filters.
 - [Frazier Piano Studio] - Blog posts, videos, and apps.
+- [SFZ Format] - Main reference for creating instruments with the SFZ format.
 - [Know Your Theory] - Interactive tutorial to learn theory fundamentals.
 - [Music Theory] - The exciting universe of music theory.
 - [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
@@ -516,6 +531,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Digital Filters Introduction]:
     https://karlhiner.com/jupyter_notebooks/intro_to_digital_filters/
 [Frazier Piano Studio]: https://frazierpianostudio.com
+[SFZ Format]: https://sfzformat.com
 [Know Your Theory]: https://knowyourtheory.com
 [Music Theory]: https://ianring.com/musictheory/
 [youtube.com/i_0DXxNeaQ0]: http://youtube.com/watch?v=i_0DXxNeaQ0
