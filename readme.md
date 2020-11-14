@@ -66,6 +66,7 @@ Check it out at [leomask.com](https://leomask.com)
 ### Libraries
 
 - [Alda] - A music programming language for musicians.
+- [ATM CLI] - Command line tool for generating and working with MIDI files.
 - [Aubio] - Segmentation, pitch detection, tapping the beat
     and producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
@@ -84,6 +85,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [meSing.js] - JavaScript singing synthesis library.
 - [Microm] - JavaScript library to convert browser microphone to mp3.
 - [Music Suite] - Haskell based language for describing music.
+- [Nashville] - Convert Nashville Number System (NNS) entries to chords.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Octavian] - Utility to reason about notes, frequencies, and intervals.
 - [Orca] - Esoteric programming language to create procedural sequencers.
@@ -94,6 +96,7 @@ Check it out at [leomask.com](https://leomask.com)
     with pitch detection algorithms
 - [React Music] - Create beats with [React].
 - [Repitch] - Real-time polyphonic MIDI-controlled audio pitch shifting.
+- [Rust Music Theory] - A music theory guide written in Rust.
 - [Scribbletune] - Create music with JavaScript.
 - [Sharp11] - Music theorization and improvisation engine.
 - [Slang] - Simple audio programming language implemented in JavaScript.
@@ -112,6 +115,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Vivid] - High quality audio in Haskell with SuperCollider.
 
 [Alda]: https://github.com/alda-lang/alda
+[ATM CLI]: https://github.com/allthemusicllc/atm-cli
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
@@ -128,6 +132,7 @@ Check it out at [leomask.com](https://leomask.com)
 [meSing.js]: https://github.com/usdivad/mesing
 [Microm]: https://github.com/zzarcon/microm
 [Music Suite]: http://music-suite.github.io
+[Nashville]: https://github.com/sgoudie/nashville
 [Node PitchFinder]: https://github.com/cristovao-trevisan/node-pitchfinder
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Octavian]: https://github.com/stevekinney/octavian
@@ -136,8 +141,9 @@ Check it out at [leomask.com](https://leomask.com)
 [Pedalboard.js]: https://github.com/dashersw/pedalboard.js
 [PitchFinder]: https://github.com/peterkhayes/pitchfinder
 [React Music]: https://github.com/FormidableLabs/react-music
-[Repitch]: https://github.com/maxwellpollack/repitch
 [React]: https://reactjs.org/
+[Repitch]: https://github.com/maxwellpollack/repitch
+[Rust Music Theory]: https://github.com/ozankasikci/rust-music-theory
 [Scribbletune]: https://github.com/scribbletune/scribbletune
 [Sharp11]: https://github.com/jsrmath/sharp11
 [Slang]: http://slang.kylestetz.com
@@ -174,7 +180,9 @@ Check it out at [leomask.com](https://leomask.com)
 - [Auxy] - Modern instruments for mobile creators.
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
     with an artist's sketchbook (iOS only).
+- [Dragonfly Reverb] - Open source audio effects for Linux, macOS, and Windows.
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
+- [IXI Programs] - Apps for creating musical instruments and environments.
 - [Laborejo] - MIDI sequencer based on classical music notation.
 - [Luna] - MIDI sequencer.
 - [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
@@ -189,7 +197,9 @@ Check it out at [leomask.com](https://leomask.com)
 [Agordejo]: https://www.laborejo.org/agordejo/
 [Auxy]: http://auxy.co
 [Composer's Sketchpad]: http://composerssketchpad.com
+[Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
 [Fluajho]: https://www.laborejo.org/fluajho/
+[IXI Programs]: http://www.ixi-audio.net/content/software.html
 [Laborejo]: https://www.laborejo.org/laborejo/
 [Luna]: https://github.com/clarityflowers/luna
 [Melodics]: https://melodics.com
@@ -212,6 +222,8 @@ Check it out at [leomask.com](https://leomask.com)
     parallel drum and synth machine.
 - [beatboxer] - Simple drum machine.
 - [BlokDust] - Interactive music-making app to build synths and sounds.
+- [Chords] - Text based chord progression editor.
+- [Circle of 5ths Explorer]
 - [Djenerator] - A metal breakdown generator.
 - [Funklet] - Drum machine and library of famous drum patterns.
 - [Jamwithchrome] - Play music live with your friends online.
@@ -228,6 +240,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Piano Genie] - Machine learning augmented piano app.
 - [Reactor] - Online DJ controller connected to SoundCloud.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
+- [Scale Explorer] - Visual scale explorer.
 - [Song Maker] - Simple step sequencer.
 - [Sononym] - Visual sample browser.
 - [Splice] - Music creation and collaboration platform.
@@ -248,6 +261,9 @@ Check it out at [leomask.com](https://leomask.com)
 [Beat Push]: https://beatpush.com/
 [beatboxer]: https://sig.gy/beatboxer/
 [BlokDust]: https://blokdust.com
+[Chords]: https://github.com/evashort/chords
+[Circle of 5ths Explorer]:
+    https://frazierpianostudio.com/resources/circle-of-fifths-explorer/
 [Djenerator]: http://djen.co
 [Funklet]: http://funklet.com
 [Jamwithchrome]: http://jamwithchrome.com
@@ -264,6 +280,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Piano Genie]: https://piano-genie.glitch.me
 [Reactor]: https://lukeandersen.github.io/reactor
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
+[Scale Explorer]: https://frazierpianostudio.com/resources/scale-explorer/
 [Song Maker]: https://musiclab.chromeexperiments.com/Song-Maker/
 [Sononym]: https://www.sononym.net
 [Splice]: https://splice.com
@@ -298,18 +315,21 @@ Check it out at [leomask.com](https://leomask.com)
 [Synthspace]: http://brightlight.rocks/synthspace/
 
 
-### Guitar
+### Guitar, Ukulele, …
 
-- [Chordata] - A dummy chordbook for mandolin, ukulele and guitar.
+- [Chordata] - A dummy chord-book for mandolin, ukulele and guitar.
 - [Fretboard] - Online Guitar fretboard viewer to study scales and chords.
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
     or ChordPro ukulele songs.
-- [Ukutabs] - source for ukulele tabs, chords, tips, tools, guides
+- [Ukutabs] - Source for ukulele tabs, chords, tips, tools, guides
+- [Ukulele Chord Finder]
 
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
 [Ukutabs]: https://ukutabs.com
+[Ukulele Chord Finder]:
+    https://frazierpianostudio.com/resources/ukulele-chord-finder/
 
 
 ## Services
@@ -405,6 +425,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Erea Touch] - Seamless polyphonic MIDI Controller with LED touch surface.
 - [Joué] - Expressive and modular MPE controller.
 - [LinnStrument] - Grid based expressive [MPE] controller.
+- [Lumatone] - Hexagonal isomorphic keyboard.
 - [Mimu Gloves] - Expressive wearable musical instrument.
 - [Morph] - Expressive MPE touch controller with swappable hardware interfaces.
 - [MPK Mini mkII] - Cheap, functional, excellent starter controller.
@@ -453,6 +474,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Karlax] - Multi sensor expressive Clarinette like instrument.
 - [Keytam] - Tunable guitar-tambourine hybrid.
 - [Musical Instrument Challenge][inst-challenge] - List of DIY instruments.
+- [Orba] - Ball shaped, hand sized musical instrument.
 - [OTTO] - Sampler, sequencer, multi-engine synth and effects in a box.
 
 [Chapman Stick]: http://stick.com/
@@ -460,6 +482,7 @@ Check it out at [leomask.com](https://leomask.com)
 [inst-challenge]: https://hackaday.io/submissions/prize2018_instrument/list
 [Karlax]: http://www.dafact.com
 [Keytam]: https://www.keytam-drum.com
+[Orba]: https://artiphon.com/pages/orba-by-artiphon
 [OTTO]: https://github.com/topisani/OTTO
 
 
@@ -481,6 +504,8 @@ Check it out at [leomask.com](https://leomask.com)
 - [Awesome WebAudio] - A curated list of awesome WebAudio packages and demos.
 - [Digital Filters Introduction] - Jupyter notebooks
     and a geometric interpretation of digital audio filters.
+- [Frazier Piano Studio] - Blog posts, videos, and apps.
+- [Know Your Theory] - Interactive tutorial to learn theory fundamentals.
 - [Music Theory] - The exciting universe of music theory.
 - [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
 - [Sound hacking and music technologies]
@@ -490,6 +515,8 @@ Check it out at [leomask.com](https://leomask.com)
 [Awesome WebAudio]: https://github.com/notthetup/awesome-webaudio
 [Digital Filters Introduction]:
     https://karlhiner.com/jupyter_notebooks/intro_to_digital_filters/
+[Frazier Piano Studio]: https://frazierpianostudio.com
+[Know Your Theory]: https://knowyourtheory.com
 [Music Theory]: https://ianring.com/musictheory/
 [youtube.com/i_0DXxNeaQ0]: http://youtube.com/watch?v=i_0DXxNeaQ0
 [Sound hacking and music technologies]: https://youtu.be/v9uE2nHAGb8
