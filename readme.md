@@ -14,19 +14,21 @@ Check it out at [leomask.com](https://leomask.com)
   - [Apps](#apps)
   - [Webapps](#webapps)
   - [Virtual Reality](#virtual-reality)
-  - [Guitar](#guitar)
+  - [Guitar, Ukulele, …](#guitar-ukulele-)
 - [Services](#services)
   - [AI Music Creation](#ai-music-creation)
   - [Music Distribution](#music-distribution)
   - [Management](#management)
 - [Datasets](#datasets)
+- [Misc](#misc)
 - [Hardware](#hardware)
   - [Synthesizers](#synthesizers-1)
   - [MIDI Controllers](#midi-controllers)
   - [Instruments](#instruments)
+  - [Workstations](#workstations)
 - [Community](#community)
 - [Knowledge](#knowledge)
-  - [Misc](#misc)
+  - [Misc](#misc-1)
   - [Articles](#articles)
   - [Research](#research)
 
@@ -43,6 +45,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Garage Band]
 - [Giada] - Minimal audio tool for DJs, live performers and musicians.
 - [GridSound] - Free online DAW implemented with the Web Audio API.
+- [LMMS] - Comprehensive open source, cross platform DAW.
 - [Logic Pro X]
 - [Pro Tools]
 - [Reaper] - Complete digital audio production app for Windows and macOS.
@@ -56,6 +59,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Garage Band]: https://apple.com/mac/garageband
 [Giada]: https://www.giadamusic.com
 [GridSound]: https://github.com/gridsound/daw
+[LMMS]: https://lmms.io/
 [Logic Pro X]: https://apple.com/logic-pro
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Reaper]: http://reaper.fm
@@ -77,6 +81,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Faust] - Functional programming language
     for sound synthesis and audio processing.
 - [FourVoices] - Automatic music generator for four-part writing.
+- [Houdini Music Toolset] - Adding MIDI functionality to 3D program [Houdini].
 - [Klasma] - Chiptune music composition kit.
 - [libsoundio] - Cross platform audio input and output library.
 - [LickCreator] - Online web based music notation.
@@ -126,6 +131,8 @@ Check it out at [leomask.com](https://leomask.com)
 [Euterpea]: http://www.euterpea.com
 [Faust]: https://faust.grame.fr
 [FourVoices]: https://github.com/erickim555/FourVoices
+[Houdini]: https://www.sidefx.com/products/houdini/
+[Houdini Music Toolset]: https://github.com/andrew-lowell/HMT
 [Klasma]: https://github.com/hdgarrood/klasma
 [Leipzig]: https://github.com/ctford/leipzig
 [libsoundio]: http://libsound.io
@@ -195,6 +202,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Max] - Visual programming language for music and multimedia creation.
 - [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
 - [Midica] - Music programming language and desktop app for MIDI generation.
+- [MIDI Tapper] - Shape music performances with multi-touch gestures.
 - [Ninjas 2] - Sample slicer audio plugin and standalone app.
 - [Patroneo] - Simple pattern based midi sequencer.
 - [Samplr] - Multi-touch music making app for iPad.
@@ -216,6 +224,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Max]: https://cycling74.com/products/max
 [Melodics]: https://melodics.com
 [Midica]: http://www.midica.org
+[MIDI Tapper]: https://hpi.zentral.zone/miditapper
 [Ninjas 2]: https://github.com/clearly-broken-software/ninjas2
 [Patroneo]: https://www.laborejo.org/patroneo/
 [Samplr]: http://samplr.net
@@ -243,6 +252,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Jamwithchrome] - Play music live with your friends online.
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
 - [Klangmeister] - Live coding environment for the browser.
+- [Klank] - Sound and animation in the browser using PureScript.
 - [Landr] - Automatic audio mastering.
 - [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Loopjs] - Live Electronic Music Performance Software.
@@ -283,6 +293,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Jamwithchrome]: http://jamwithchrome.com
 [Keithwhor.com/music]: http://keithwhor.com/music
 [Klangmeister]: http://ctford.github.io/klangmeister
+[Klank]: https://klank.dev/
 [Landr]: https://www.landr.com
 [Lissajous]: https://github.com/kylestetz/lissajous
 [Loopjs]: http://loopjs.com
@@ -333,6 +344,8 @@ Check it out at [leomask.com](https://leomask.com)
 
 - [Chordata] - A dummy chord-book for mandolin, ukulele and guitar.
 - [Fretboard] - Online Guitar fretboard viewer to study scales and chords.
+- [SmartGuitarAmp] - Guitar plugin using neural networks
+    to emulate real world hardware.
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
     or ChordPro ukulele songs.
 - [Ukutabs] - Source for ukulele tabs, chords, tips, tools, guides
@@ -340,6 +353,7 @@ Check it out at [leomask.com](https://leomask.com)
 
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
+[SmartGuitarAmp]: https://github.com/keyth72/SmartGuitarAmp
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
 [Ukutabs]: https://ukutabs.com
 [Ukulele Chord Finder]:
@@ -398,6 +412,15 @@ Check it out at [leomask.com](https://leomask.com)
 - [SigSep] - Publicly available datasets for research on source separation.
 
 [SigSep]: https://sigsep.github.io/
+
+
+## Misc
+
+- [BandLab] - All in one social music creation platform.
+- [Sequencer Electronics] - Online shop for music apps and plugins.
+
+[BandLab]: https://www.bandlab.com/
+[Sequencer Electronics]: https://sequencer.wtf/
 
 
 ## Hardware
@@ -498,6 +521,13 @@ Check it out at [leomask.com](https://leomask.com)
 [Keytam]: https://www.keytam-drum.com
 [Orba]: https://artiphon.com/pages/orba-by-artiphon
 [OTTO]: https://github.com/topisani/OTTO
+
+
+### Workstations
+
+- [Polyend Tracker] - Compact standalone workstation with a tracker UI.
+
+[Polyend Tracker]: https://polyend.com/tracker/
 
 
 ## Community
