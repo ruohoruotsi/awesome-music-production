@@ -555,6 +555,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [SFZ Format] - Main reference for creating instruments with the SFZ format.
 - [Know Your Theory] - Interactive tutorial to learn theory fundamentals.
 - [Music Theory] - The exciting universe of music theory.
+- [muted.io] - Interactive music theory tools and visual references.
 - [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
 - [Sound hacking and music technologies]
 
@@ -567,6 +568,7 @@ Check it out at [leomask.com](https://leomask.com)
 [SFZ Format]: https://sfzformat.com
 [Know Your Theory]: https://knowyourtheory.com
 [Music Theory]: https://ianring.com/musictheory/
+[muted.io]: https://muted.io
 [youtube.com/i_0DXxNeaQ0]: http://youtube.com/watch?v=i_0DXxNeaQ0
 [Sound hacking and music technologies]: https://youtu.be/v9uE2nHAGb8
 
