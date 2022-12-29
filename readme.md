@@ -51,6 +51,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Reaper] - Complete digital audio production app for Windows and macOS.
 - [Rytmik Studio] - Music creation software.
 - [Stargate DAW] - All-in-one DAW and plugin suite for Windows, macOS and Linux.
+- [Studio One] - Complete DAW and live show sequencing.
 - [Zrythm] - Cross-platform DAW.
 
 [Ableton]: https://ableton.com/live
@@ -66,6 +67,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Reaper]: http://reaper.fm
 [Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
 [Stargate DAW]: https://github.com/stargatedaw/stargate
+[Studio One]: https://www.presonus.com/products/Studio-One
 [Zrythm]: https://www.zrythm.org
 
 
