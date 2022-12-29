@@ -397,6 +397,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [DistroKid]
 - [RecordJet]
 - [Amuse]
+- [MDIIO]
 
 [ReverbNation]: https://www.reverbnation.com
 [TuneCore]: https://www.tunecore.com
@@ -407,6 +408,7 @@ Check it out at [leomask.com](https://leomask.com)
 [DistroKid]: https://distrokid.com
 [RecordJet]: https://www.recordjet.com
 [Amuse]: https://amuse.io
+[MDIIO]: https://www.wearemdiio.com
 
 
 ### Management
