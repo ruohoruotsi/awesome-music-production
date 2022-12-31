@@ -211,6 +211,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [IXI Programs] - Apps for creating musical instruments and environments.
 - [KXStudio] - Collection of applications and plugins for audio production.
 - [Laborejo] - MIDI sequencer based on classical music notation.
+- [Line] - CLI MIDI sequencer and language for live coding.
 - [Luna] - MIDI sequencer.
 - [Max] - Visual programming language for music and multimedia creation.
 - [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
@@ -236,6 +237,7 @@ Check it out at [leomask.com](https://leomask.com)
 [IXI Programs]: http://www.ixi-audio.net/content/software.html
 [KXStudio]: https://kx.studio
 [Laborejo]: https://www.laborejo.org/laborejo/
+[Line]: https://github.com/pd3v/line
 [Luna]: https://github.com/clarityflowers/luna
 [Max]: https://cycling74.com/products/max
 [Melodics]: https://melodics.com
