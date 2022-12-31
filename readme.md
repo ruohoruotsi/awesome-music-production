@@ -48,7 +48,9 @@ Check it out at [leomask.com](https://leomask.com)
 - [LMMS] - Comprehensive open source, cross platform DAW.
 - [Logic Pro X]
 - [Pro Tools]
+- [Radium] - Tracker-like music editor with additional GUI controls.
 - [Reaper] - Complete digital audio production app for Windows and macOS.
+- [Renoise] - Complete, multi-platform DAW with a music-tracker based approach.
 - [Rytmik Studio] - Music creation software.
 - [Stargate DAW] - All-in-one DAW and plugin suite for Windows, macOS and Linux.
 - [Studio One] - Complete DAW and live show sequencing.
@@ -64,7 +66,9 @@ Check it out at [leomask.com](https://leomask.com)
 [LMMS]: https://lmms.io/
 [Logic Pro X]: https://apple.com/logic-pro
 [Pro Tools]: http://avid.com/products/pro-tools-software
+[Radium]: https://github.com/kmatheussen/radium
 [Reaper]: http://reaper.fm
+[Renoise]: https://www.renoise.com
 [Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
 [Stargate DAW]: https://github.com/stargatedaw/stargate
 [Studio One]: https://www.presonus.com/products/Studio-One
