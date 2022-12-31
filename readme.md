@@ -221,6 +221,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Sonic Pi] - Live coding music synth for everyone.
 - [Sonic Visualiser] - Visualize, analyze, and annotate music audio recordings.
 - [Spire] - iOS multitrack recording app with FX & mixing features.
+- [Transcribe!] - App to help transcribe recorded music.
 
 [Agordejo]: https://www.laborejo.org/agordejo/
 [Auxy]: http://auxy.co
@@ -245,6 +246,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Sonic Pi]: https://github.com/samaaron/sonic-pi
 [Sonic Visualiser]: https://sonicvisualiser.org
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder/id1013021109
+[Transcribe!]: https://www.seventhstring.com/xscribe/overview.html
 
 
 ### Webapps
