@@ -495,6 +495,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [dualo du-touch] - Accordion like controller with hexagonal pads.
 - [Eigenharp] - Grid, breath pipe, and touch strip enabled MPE instrument.
 - [Erea Touch] - Seamless polyphonic MIDI Controller with LED touch surface.
+- [Haxophone] - Electronic musical instrument resembling a Saxophone.
 - [Joué] - Expressive and modular MPE controller.
 - [LinnStrument] - Grid based expressive [MPE] controller.
 - [Lumatone] - Hexagonal isomorphic keyboard.
@@ -520,6 +521,7 @@ Check it out at [leomask.com](https://leomask.com)
 [dualo du-touch]: https://dualo.org
 [Eigenharp]: http://www.eigenlabs.com/info/
 [Erea Touch]: https://www.embodme.com/
+[Haxophone]: https://github.com/jcard0na/haxo-hw
 [Joué]: https://www.play-joue.com/en/
 [LinnStrument]: http://www.rogerlinndesign.com/linnstrument.html
 [Mimu Gloves]: https://mimugloves.com
