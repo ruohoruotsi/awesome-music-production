@@ -111,6 +111,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Pippi] - Computer music with python.
 - [PitchFinder] & [Node PitchFinder] - Javascript (and node c++ addon)
     with pitch detection algorithms
+- [PureScript Ocarina] - Web-audio library for interactive media and games.
 - [React Music] - Create beats with [React].
 - [Repitch] - Real-time polyphonic MIDI-controlled audio pitch shifting.
 - [Rust Music Theory] - A music theory guide written in Rust.
@@ -163,6 +164,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Pedalboard.js]: https://github.com/dashersw/pedalboard.js
 [Pippi]: https://github.com/luvsound/pippi
 [PitchFinder]: https://github.com/peterkhayes/pitchfinder
+[PureScript Ocarina]: https://mikesol.github.io/purescript-ocarina/
 [React Music]: https://github.com/FormidableLabs/react-music
 [React]: https://reactjs.org/
 [Repitch]: https://github.com/maxwellpollack/repitch
