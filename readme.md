@@ -211,6 +211,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
 - [JJazzLab] - Easily generate dynamic backing tracks for any song.
 - [IXI Programs] - Apps for creating musical instruments and environments.
+- [Konfyt] - Digital keyboard workstation for Linux.
 - [KXStudio] - Collection of applications and plugins for audio production.
 - [Laborejo] - MIDI sequencer based on classical music notation.
 - [Line] - CLI MIDI sequencer and language for live coding.
@@ -238,6 +239,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Fluajho]: https://www.laborejo.org/fluajho/
 [JJazzLab]: https://www.jjazzlab.com
 [IXI Programs]: http://www.ixi-audio.net/content/software.html
+[Konfyt]: https://github.com/noedigcode/konfyt
 [KXStudio]: https://kx.studio
 [Laborejo]: https://www.laborejo.org/laborejo/
 [Line]: https://github.com/pd3v/line
@@ -370,6 +372,7 @@ Check it out at [leomask.com](https://leomask.com)
 
 - [Chordata] - A dummy chord-book for mandolin, ukulele and guitar.
 - [Fretboard] - Online Guitar fretboard viewer to study scales and chords.
+- [Guitarix] - Virtual guitar amplifier for Linux running on JACK.
 - [SmartGuitarAmp] - Guitar plugin using neural networks
     to emulate real world hardware.
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
@@ -381,6 +384,7 @@ Check it out at [leomask.com](https://leomask.com)
 
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
+[Guitarix]: https://guitarix.org
 [SmartGuitarAmp]: https://github.com/keyth72/SmartGuitarAmp
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
 [Ukutabs]: https://ukutabs.com
