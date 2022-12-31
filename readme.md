@@ -18,7 +18,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Services](#services)
   - [AI Music Creation](#ai-music-creation)
   - [Music Distribution](#music-distribution)
-  - [Management](#management)
+  - [Sound / Sample Providers](#sound--sample-providers)
 - [Datasets](#datasets)
 - [Misc](#misc)
 - [Hardware](#hardware)
@@ -415,7 +415,15 @@ Check it out at [leomask.com](https://leomask.com)
 [MDIIO]: https://www.wearemdiio.com
 
 
-### Management
+### Sound / Sample Providers
+
+- [PremiumBeat] - Curated, high-quality music and sound effects.
+- [Soundstripe] - Royalty-free music and sound effects for video.
+- [Splice] - Royalty-free samples, one-shots, loops, MIDI, and presets.
+
+[PremiumBeat]: https://www.premiumbeat.com
+[Soundstripe]: https://www.soundstripe.com
+[Splice]: https://splice.com/features/sounds
 
 
 ## Datasets
