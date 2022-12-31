@@ -220,6 +220,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Midica] - Music programming language and desktop app for MIDI generation.
 - [MIDI Tapper] - Shape music performances with multi-touch gestures.
 - [Ninjas 2] - Sample slicer audio plugin and standalone app.
+- [Ossia Score] - Sequencer for audio-visual and interactive shows.
 - [Patroneo] - Simple pattern based midi sequencer.
 - [Samplr] - Multi-touch music making app for iPad.
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
@@ -246,6 +247,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Midica]: http://www.midica.org
 [MIDI Tapper]: https://hpi.zentral.zone/miditapper
 [Ninjas 2]: https://github.com/clearly-broken-software/ninjas2
+[Ossia Score]: https://ossia.io
 [Patroneo]: https://www.laborejo.org/patroneo/
 [Samplr]: http://samplr.net
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
