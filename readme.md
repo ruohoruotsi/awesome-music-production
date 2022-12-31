@@ -219,6 +219,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Seq24] - Minimal loop based midi sequencer.
 - [SFZ Designer] - Visual sample mapping tool to create SFZ files.
 - [Sonic Pi] - Live coding music synth for everyone.
+- [Sonic Visualiser] - Visualize, analyze, and annotate music audio recordings.
 - [Spire] - iOS multitrack recording app with FX & mixing features.
 
 [Agordejo]: https://www.laborejo.org/agordejo/
@@ -242,6 +243,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Seq24]: http://filter24.org/seq24/
 [SFZ Designer]: http://mildon.me/sfzdesigner
 [Sonic Pi]: https://github.com/samaaron/sonic-pi
+[Sonic Visualiser]: https://sonicvisualiser.org
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder/id1013021109
 
 
