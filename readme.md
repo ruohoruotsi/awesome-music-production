@@ -545,7 +545,7 @@ Check it out at [leomask.com](https://leomask.com)
 
 - [Poly Expression] - Forum for expressive instruments and controllers.
 
-[Poly Expression]: https://community.polyexpression.com/
+[Poly Expression]: https://community.polyexpression.com
 
 
 ## Knowledge
@@ -612,6 +612,7 @@ Check it out at [leomask.com](https://leomask.com)
 
 ### Research
 
+- [Centre for Digital Music] - Research group for music and audio technology.
 - [Guthman Musical Instrument Competition]
 - [Harmony Explained] - Progress towards a scientific theory of music.
 - [Musical User Interfaces] - Rethink how audio software is designed.
@@ -619,6 +620,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Virtual Reality Musical Instruments:
     State of the Art, Design Principles, and Future Directions][VR Instruments]
 
+[Centre for Digital Music]: https://c4dm.eecs.qmul.ac.uk
 [Guthman Musical Instrument Competition]: https://guthman.gatech.edu
 [Harmony Explained]: https://arxiv.org/abs/1202.4212v2
 [Musical User Interfaces]: https://arthurcarabott.com/mui/
