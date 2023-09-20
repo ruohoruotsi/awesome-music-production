@@ -95,6 +95,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Gwion] - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 - [Houdini Music Toolset] - Adding MIDI functionality to 3D program [Houdini].
 - [Klasma] - Chiptune music composition kit.
+- [Kord] - Music theory binary and library for Rust and JavaScript.
 - [libsoundio] - Cross platform audio input and output library.
 - [LickCreator] - Online web based music notation.
 - [Leipzig] - Composition library for Clojure and ClojureScript.
@@ -151,6 +152,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Houdini]: https://www.sidefx.com/products/houdini/
 [Houdini Music Toolset]: https://github.com/andrew-lowell/HMT
 [Klasma]: https://github.com/hdgarrood/klasma
+[Kord]: https://github.com/twitchax/kord
 [Leipzig]: https://github.com/ctford/leipzig
 [libsoundio]: http://libsound.io
 [LickCreator]: https://twitter.com/lickcreator
@@ -303,6 +305,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Piano Genie] - Machine learning augmented piano app.
 - [Reactor] - Online DJ controller connected to SoundCloud.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
+- [Roland 50 Studio] - Online playground with emulations of classic Roland devices.
 - [Scale Explorer] - Visual scale explorer.
 - [Song Maker] - Simple step sequencer.
 - [Sononym] - Visual sample browser.
@@ -347,6 +350,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Piano Genie]: https://piano-genie.glitch.me
 [Reactor]: https://lukeandersen.github.io/reactor
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
+[Roland 50 Studio]: https://roland50.studio
 [Scale Explorer]: https://frazierpianostudio.com/resources/scale-explorer/
 [Song Maker]: https://musiclab.chromeexperiments.com/Song-Maker/
 [Sononym]: https://www.sononym.net
@@ -445,6 +449,15 @@ Check it out at [leomask.com](https://leomask.com)
 [MDIIO]: https://www.wearemdiio.com
 
 
+### Music Promotion
+
+- [MusicWall] - Free music landings for artists, producers, and engineers.
+- [SubmitHub] - Submit your music to bloggers and curators.
+
+[MusicWall]: https://musicwall.app
+[SubmitHub]: https://www.submithub.com
+
+
 ### Sound / Sample Providers
 
 - [PremiumBeat] - Curated, high-quality music and sound effects.
@@ -460,8 +473,10 @@ Check it out at [leomask.com](https://leomask.com)
 
 ## Datasets
 
+- [Free MIDI Chords] - Collection of free MIDI chords and progressions.
 - [SigSep] - Publicly available datasets for research on source separation.
 
+[Free MIDI Chords]: https://github.com/ldrolez/free-midi-chords
 [SigSep]: https://sigsep.github.io/
 
 
