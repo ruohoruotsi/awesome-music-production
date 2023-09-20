@@ -237,6 +237,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Sonic Visualiser] - Visualize, analyze, and annotate music audio recordings.
 - [Spire] - iOS multitrack recording app with FX & mixing features.
 - [Transcribe!] - App to help transcribe recorded music.
+- [Ultimate Vocal Remover] - AI-powered vocal remover.
 
 [Agordejo]: https://www.laborejo.org/agordejo/
 [Auxy]: http://auxy.co
@@ -265,6 +266,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Sonic Visualiser]: https://sonicvisualiser.org
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder/id1013021109
 [Transcribe!]: https://www.seventhstring.com/xscribe/overview.html
+[Ultimate Vocal Remover]: https://ultimatevocalremover.com/
 
 
 ### Webapps
@@ -290,7 +292,9 @@ Check it out at [leomask.com](https://leomask.com)
 - [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Loopjs] - Live Electronic Music Performance Software.
 - [Looplabs] - Cloud based music studio.
+- [Loudness Penalty] - Check how loud your track is and how much it will be penalised by online streaming services.
 - [Matrix Piano] - Virtual 2D piano to use the PC keyboard as an instrument.
+- [mix check studio] - Check your mixes and masters for common issues.
 - [Musical Chord Progression Arpeggiator] -
     Sketch out musical chord progressions.
 - [MyNoise] - Background noises and interactive soundscapes.
@@ -332,7 +336,9 @@ Check it out at [leomask.com](https://leomask.com)
 [Lissajous]: https://github.com/kylestetz/lissajous
 [Loopjs]: http://loopjs.com
 [Looplabs]: https://looplabs.com
+[Loudness Penalty]: https://www.loudnesspenalty.com/
 [Matrix Piano]: http://www.markllet.de/matrix_piano/
+[mix check studio]: https://mixcheck.studio/
 [Musical Chord Progression Arpeggiator]:
     https://codepen.io/jakealbaugh/pen/qNrZyw
 [MyNoise]: https://mynoise.net/
