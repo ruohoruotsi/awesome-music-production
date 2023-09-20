@@ -47,6 +47,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [GridSound] - Free online DAW implemented with the Web Audio API.
 - [LMMS] - Comprehensive open source, cross platform DAW.
 - [Logic Pro X]
+- [Meadowlark] - Open-source, cross platform DAW.
 - [Pro Tools]
 - [Radium] - Tracker-like music editor with additional GUI controls.
 - [Reaper] - Complete digital audio production app for Windows and macOS.
@@ -66,6 +67,7 @@ Check it out at [leomask.com](https://leomask.com)
 [GridSound]: https://github.com/gridsound/daw
 [LMMS]: https://lmms.io/
 [Logic Pro X]: https://apple.com/logic-pro
+[Meadowlark]: https://github.com/MeadowlarkDAW
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Radium]: https://github.com/kmatheussen/radium
 [Reaper]: http://reaper.fm
@@ -134,6 +136,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Tone.js] - A Web Audio framework for making interactive music in the browser.
 - [Tuna] - An audio effects library for the Web Audio API.
 - [VCV Rack] - Open source virtual modular synthesizer.
+- [Verovio] - Music notation engraving library.
 - [Vexwarp] - JavaSCript library for audio time stretching and pitch shifting.
 - [Vivid] - High quality audio in Haskell with SuperCollider.
 
@@ -190,6 +193,7 @@ Check it out at [leomask.com](https://leomask.com)
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
 [VCV Rack]: https://vcvrack.com
+[Verovio]: https://www.verovio.org
 [Vexwarp]: https://github.com/0xfe/vexwarp
 [Vivid]: https://vivid-synth.com
 
@@ -278,6 +282,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [108] - Minimal beat machine.
 - [AI Duet] - A smart piano that responds to you.
 - [Arpeggiator] - Web Audio Arpeggiator.
+- [Audio Motion Interface] - Use smartphone motions to control a synthesizer.
 - [Baroque Dances] - Procedurally generated classical music.
 - [Beat Push] - Online music production with built-in
     parallel drum and synth machine.
@@ -323,6 +328,7 @@ Check it out at [leomask.com](https://leomask.com)
 [108]: https://martinwecke.de/108/
 [AI Duet]: https://experiments.withgoogle.com/ai-duet
 [Arpeggiator]: http://arpeggiator.desandro.com
+[Audio Motion Interface]: https://github.com/MaxAlyokhin/audio-motion-interface
 [Baroque Dances]: http://devinrothmusic.com/baroquedances/
 [Beat Push]: https://beatpush.com/
 [beatboxer]: https://sig.gy/beatboxer/
@@ -530,6 +536,7 @@ Check it out at [leomask.com](https://leomask.com)
 - [Joué] - Expressive and modular MPE controller.
 - [LinnStrument] - Grid based expressive [MPE] controller.
 - [Lumatone] - Hexagonal isomorphic keyboard.
+- [MIDILodica] - Breath-controlled, 3D printed, open-source MIDI device.
 - [Mimu Gloves] - Expressive wearable musical instrument.
 - [Morph] - Expressive MPE touch controller with swappable hardware interfaces.
 - [MPK Mini mkII] - Cheap, functional, excellent starter controller.
@@ -555,6 +562,8 @@ Check it out at [leomask.com](https://leomask.com)
 [Haxophone]: https://github.com/jcard0na/haxo-hw
 [Joué]: https://www.play-joue.com/en/
 [LinnStrument]: http://www.rogerlinndesign.com/linnstrument.html
+[Lumatone]: https://www.lumatone.io
+[MIDILodica]: https://github.com/XavierGerD/MIDILodica
 [Mimu Gloves]: https://mimugloves.com
 [Morph]: https://sensel.com/pages/the-sensel-morph
 [MPE]: https://roli.com/mpe
@@ -600,8 +609,11 @@ Check it out at [leomask.com](https://leomask.com)
 
 ## Community
 
+- [Music Encoding Initiative] - Community-driven, open-source
+    effort to define a machine-reabable music notation encoding.
 - [Poly Expression] - Forum for expressive instruments and controllers.
 
+[Music Encoding Initiative]: https://music-encoding.org
 [Poly Expression]: https://community.polyexpression.com
 
 
