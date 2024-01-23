@@ -2,8 +2,13 @@
 
 A curated list of software, hardware, and other resources to create music.
 
-I use this knowledge to produce music as my alter ego Leo Mask.
-Check it out at [leomask.com](https://leomask.com)
+> [!TIP]
+> I use this knowledge to produce music as my alter ego Leo Mask. \
+> Check it out at [leomask.com](https://leomask.com)!
+
+---
+
+**Table Of Contents**
 
 <!-- toc -->
 
