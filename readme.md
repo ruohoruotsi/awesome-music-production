@@ -216,6 +216,7 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Synthesizers
 
+- [Regency] - Multi-tiered phase distortion system.
 - [Integrate] - Old-school virtual analog synthesizer.
 - [Altitude] - Advanced hybrid synthesis workstation.
 - [Amsynth] - Synthesizer with a classic subtractive synthesizer topology.
@@ -227,6 +228,7 @@ A curated list of software, hardware, and other resources to create music.
 
 [Amsynth]: https://amsynth.github.io
 [Helm]: https://tytel.org/helm/
+[Regency]: https://nakst.gitlab.io/regency/
 [Altitude]: https://nakst.gitlab.io/altitude/
 [NSynth Super]: https://nsynthsuper.withgoogle.com/
 [OpenUtau]: https://www.openutau.com
