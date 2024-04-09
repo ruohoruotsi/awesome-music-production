@@ -313,9 +313,12 @@ A curated list of software, hardware, and other resources to create music.
 ### Webapps
 
 - [108] - Minimal beat machine.
+- [Strudel] - Web-based environment for live coding algorithmic patterns.
 - [AI Duet] - A smart piano that responds to you.
 - [Arpeggiator] - Web Audio Arpeggiator.
 - [Audio Motion Interface] - Use smartphone motions to control a synthesizer.
+
+[Strudel]: https://strudel.cc
 - [Baroque Dances] - Procedurally generated classical music.
 - [Beat Push] - Online music production with built-in
     parallel drum and synth machine.
