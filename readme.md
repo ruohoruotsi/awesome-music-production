@@ -629,6 +629,8 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Misc
 
+- [Awesome Livecoding] - A curated list of livecoding languages and tools.
+
 - [Audio Working Group] - Add advanced sound & music synthesis capabilities
     to the Open Web Platform.
 - [Awesome Sheet Music] - Curated list of tools to create,
@@ -647,6 +649,7 @@ A curated list of software, hardware, and other resources to create music.
 
 [Audio Working Group]: https://www.w3.org/2011/audio/
 [Awesome Sheet Music]: https://github.com/ad-si/awesome-sheet-music
+[Awesome Livecoding]: https://github.com/toplap/awesome-livecoding
 [Awesome WebAudio]: https://github.com/notthetup/awesome-webaudio
 [Digital Filters Introduction]:
     https://karlhiner.com/jupyter_notebooks/intro_to_digital_filters/
