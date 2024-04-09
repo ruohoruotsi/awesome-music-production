@@ -486,12 +486,14 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Sound / Sample Providers
 
+- [Musical Artifacts] - A place for sharing and preserving sound and music related software, samples, presets and more.
 - [PremiumBeat] - Curated, high-quality music and sound effects.
 - [Soundstripe] - Royalty-free music and sound effects for video.
 - [Splice] - Royalty-free samples, one-shots, loops, MIDI, and presets.
 - [BigSoundBank] - 2800+ Free and Royalty Free Sounds
 
 [PremiumBeat]: https://www.premiumbeat.com
+[Musical Artifacts]: https://musical-artifacts.com/
 [Soundstripe]: https://www.soundstripe.com
 [Splice]: https://splice.com/features/sounds
 [BigSoundBank]: https://bigsoundbank.com/
