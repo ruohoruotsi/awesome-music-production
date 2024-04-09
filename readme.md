@@ -439,11 +439,13 @@ A curated list of software, hardware, and other resources to create music.
 - [Humtap]
 - [LAIVE]
 - [Splash]
+- [Suno AI] - AI-powered music composition and production platform.
 
 [Amper]: https://www.ampermusic.com
 [Humtap]: https://www.humtap.com
 [LAIVE]: https://www.laive.io
 [Splash]: https://www.splashhq.com
+[Suno AI]: https://www.suno.ai
 
 
 ### Music Distribution
