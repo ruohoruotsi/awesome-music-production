@@ -626,17 +626,29 @@ A curated list of software, hardware, and other resources to create music.
 - [Harpejji] - Electric stringed musical instrument.
 - [Karlax] - Multi sensor expressive Clarinette like instrument.
 - [Keytam] - Tunable guitar-tambourine hybrid.
+- [LAVA Guitar] - Acoustic realism and effects in a portable guitar.
 - [Musical Instrument Challenge][inst-challenge] - List of DIY instruments.
+- [Nux Mighty Pro] - Amplifier tones and effects in a compact, versatile device.
 - [Orba] - Ball shaped, hand sized musical instrument.
 - [OTTO] - Sampler, sequencer, multi-engine synth and effects in a box.
+- [Oxi One Instruments] - Powerful synthesizer in the palm of your hand.
+- [Pocket Piano] - Piano and a wide range of sounds in a compact design.
+- [PocketDrum 2] - Electronic drums in your hands, anytime, anywhere.
+- [Travel Sax 2] - Authentic saxophone vibes with MIDI for exploring new musical horizons.
 
 [Chapman Stick]: http://stick.com/
 [Harpejji]: https://www.marcodi.com/collections/standard-series
 [inst-challenge]: https://hackaday.io/submissions/prize2018_instrument/list
 [Karlax]: http://www.dafact.com
 [Keytam]: https://www.keytam-drum.com
+[LAVA Guitar]: https://www.lavamusic.com
+[Nux Mighty Pro]: https://www.nuxefx.com/mighty-pro.html
 [Orba]: https://artiphon.com/pages/orba-by-artiphon
 [OTTO]: https://github.com/topisani/OTTO
+[Oxi One Instruments]: https://oxiinstruments.com/one
+[Pocket Piano]: https://www.critterandguitari.com/products/pocket-piano
+[PocketDrum 2]: https://aeroband.net/products/pocketdrum
+[Travel Sax 2]: https://www.odiseimusic.com/travel-sax
 
 
 ### Workstations
