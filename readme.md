@@ -44,6 +44,7 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Audio Workstations
 
+- [Waveform Pro] - A DAW designed for the needs of modern music producers.
 - [Ableton]
 - [Ardour]
 - [Bitwig]
@@ -83,6 +84,7 @@ A curated list of software, hardware, and other resources to create music.
 [Studio One]: https://www.presonus.com/products/Studio-One
 [TuneFlow]: https://tuneflow.com
 [Zrythm]: https://www.zrythm.org
+[Waveform Pro]: https://www.tracktion.com/products/waveform-pro
 
 
 ### Libraries
