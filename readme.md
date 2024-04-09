@@ -58,6 +58,7 @@ A curated list of software, hardware, and other resources to create music.
 - [LMMS] - Comprehensive open source, cross platform DAW.
 - [Logic Pro X]
 - [Meadowlark] - Open-source, cross platform DAW.
+- [Mixcraft] - DAW software for Windows.
 - [Remixlive] - A dynamic music creation tool that lets you play loops and sounds.
 - [Pro Tools]
 - [Radium] - Tracker-like music editor with additional GUI controls.
@@ -82,6 +83,7 @@ A curated list of software, hardware, and other resources to create music.
 [LMMS]: https://lmms.io/
 [Logic Pro X]: https://apple.com/logic-pro
 [Meadowlark]: https://github.com/MeadowlarkDAW
+[Mixcraft]: https://acoustica.com/products/mixcraft
 [Remixlive]: https://www.mixvibes.com/remixlive
 [Pro Tools]: http://avid.com/products/pro-tools-software
 [Radium]: https://github.com/kmatheussen/radium
