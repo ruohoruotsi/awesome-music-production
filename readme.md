@@ -556,6 +556,7 @@ A curated list of software, hardware, and other resources to create music.
 - [QuNexus] - Small and portable MPE keyboard.
 - [ROLI Blocks] - Portable snap-together MIDI controller
     with both desktop and mobile interfaces.
+- [Striso] - Expressive MPE controller with a grid-based layout.
 - [XVI Desktop] - USB 16 Channel Fader Bank with CV, I2C, and MIDI.
 
 [Artiphon]: https://artiphon.com
@@ -585,6 +586,7 @@ A curated list of software, hardware, and other resources to create music.
 [Poly Expressive]: https://www.polyeffects.com/pages/expressive
 [QuNexus]: https://www.keithmcmillen.com/products/qunexus/
 [ROLI Blocks]: https://roli.com/products/blocks/
+[Striso]: https://www.striso.org
 [XVI Desktop]:
   https://michigansynthworks.com/products/xvi-desktop-usb-16-channel-fader-bank-with-cv-i2c-and-midi
 
