@@ -454,12 +454,14 @@ A curated list of software, hardware, and other resources to create music.
 
 ### AI Music Creation
 
+- [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
 - [Amper]
 - [Humtap]
 - [LAIVE]
 - [Splash]
 - [Suno AI] - AI-powered music composition and production platform.
 
+[Omnizart]: https://github.com/Music-and-Culture-Technology-Lab/omnizart
 [Amper]: https://www.ampermusic.com
 [Humtap]: https://www.humtap.com
 [LAIVE]: https://www.laive.io
