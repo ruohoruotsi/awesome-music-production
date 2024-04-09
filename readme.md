@@ -216,6 +216,7 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Synthesizers
 
+- [Altitude] - Advanced hybrid synthesis workstation.
 - [Amsynth] - Synthesizer with a classic subtractive synthesizer topology.
 - [Helm] - GPL licensed polyphonic synth with lots of modulation.
 - [Surge Synthesizer] - Open source digital synthesizer.
@@ -225,6 +226,7 @@ A curated list of software, hardware, and other resources to create music.
 
 [Amsynth]: https://amsynth.github.io
 [Helm]: https://tytel.org/helm/
+[Altitude]: https://nakst.gitlab.io/altitude/
 [NSynth Super]: https://nsynthsuper.withgoogle.com/
 [OpenUtau]: https://www.openutau.com
 [Surge Synthesizer]:  https://surge-synthesizer.github.io
