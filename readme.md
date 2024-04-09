@@ -216,6 +216,7 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Synthesizers
 
+- [Fluctus] - Simple 3-operator FM synthesizer.
 - [Apricot] - Efficient hybrid synthesizer with a massive sound.
 - [Regency] - Multi-tiered phase distortion system.
 - [Integrate] - Old-school virtual analog synthesizer.
@@ -229,6 +230,7 @@ A curated list of software, hardware, and other resources to create music.
 
 [Amsynth]: https://amsynth.github.io
 [Helm]: https://tytel.org/helm/
+[Fluctus]: https://nakst.gitlab.io/fluctus/
 [Apricot]: https://nakst.gitlab.io/apricot/
 [Regency]: https://nakst.gitlab.io/regency/
 [Altitude]: https://nakst.gitlab.io/altitude/
