@@ -46,6 +46,7 @@ A curated list of software, hardware, and other resources to create music.
 
 - [Waveform Pro] - A DAW designed for the needs of modern music producers.
 - [Ableton]
+- [ACID] - A DAW known for its loop-based music creation.
 - [FL Studio] - A complete software music production environment.
 - [Ardour]
 - [Bitwig]
@@ -68,6 +69,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Zrythm] - Cross-platform DAW.
 
 [Ableton]: https://ableton.com/live
+[ACID]: https://www.magix.com/us/music-editing/acid/
 [FL Studio]: https://www.image-line.com/fl-studio/
 [Ardour]: https://ardour.org
 [Bitwig]: https://www.bitwig.com/
