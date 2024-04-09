@@ -44,64 +44,62 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Audio Workstations
 
-- [Helio] - Libre music composition software.
-- [Waveform Pro] - A DAW designed for the needs of modern music producers.
 - [Ableton]
 - [ACID] - A DAW known for its loop-based music creation.
-- [FL Studio] - A complete software music production environment.
 - [Ardour]
 - [Bitwig]
 - [Cubase]
+- [FL Studio] - A complete software music production environment.
 - [Garage Band]
 - [Giada] - Minimal audio tool for DJs, live performers and musicians.
 - [GridSound] - Free online DAW implemented with the Web Audio API.
+- [Helio] - Libre music composition software.
 - [LMMS] - Comprehensive open source, cross platform DAW.
 - [Logic Pro X]
 - [Meadowlark] - Open-source, cross platform DAW.
 - [Mixcraft] - DAW software for Windows.
-- [Remixlive] - A dynamic music creation tool that lets you play loops and sounds.
 - [Pro Tools]
 - [Radium] - Tracker-like music editor with additional GUI controls.
 - [Reaper] - Complete digital audio production app for Windows and macOS.
+- [Remixlive] - A dynamic music creation tool that lets you play loops and sounds.
 - [Renoise] - Complete, multi-platform DAW with a music-tracker based approach.
 - [Rytmik Studio] - Music creation software.
 - [Stargate DAW] - All-in-one DAW and plugin suite for Windows, macOS and Linux.
 - [Studio One] - Complete DAW and live show sequencing.
 - [TuneFlow] - Free, AI-powered DAW that provides lyrics/music generation, stem separation, MIDI transcription, as well as full editing and mixing capabilities.
+- [Waveform Pro] - A DAW designed for the needs of modern music producers.
 - [Zrythm] - Cross-platform DAW.
 
 [Ableton]: https://ableton.com/live
 [ACID]: https://www.magix.com/us/music-editing/acid/
-[Helio]: https://helio.fm/
-[FL Studio]: https://www.image-line.com/fl-studio/
 [Ardour]: https://ardour.org
 [Bitwig]: https://www.bitwig.com/
 [Cubase]: http://steinberg.net/en/products/cubase
+[FL Studio]: https://www.image-line.com/fl-studio/
 [Garage Band]: https://apple.com/mac/garageband
 [Giada]: https://www.giadamusic.com
 [GridSound]: https://github.com/gridsound/daw
+[Helio]: https://helio.fm/
 [LMMS]: https://lmms.io/
 [Logic Pro X]: https://apple.com/logic-pro
 [Meadowlark]: https://github.com/MeadowlarkDAW
 [Mixcraft]: https://acoustica.com/products/mixcraft
-[Remixlive]: https://www.mixvibes.com/remixlive
 [Pro Tools]: https://www.avid.com/pro-tools
 [Radium]: https://github.com/kmatheussen/radium
 [Reaper]: http://reaper.fm
+[Remixlive]: https://www.mixvibes.com/remixlive
 [Renoise]: https://www.renoise.com
 [Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
 [Stargate DAW]: https://github.com/stargatedaw/stargate
 [Studio One]: https://www.presonus.com/products/Studio-One
 [TuneFlow]: https://tuneflow.com
-[Zrythm]: https://www.zrythm.org
 [Waveform Pro]: https://www.tracktion.com/products/waveform-pro
+[Zrythm]: https://www.zrythm.org
 
 
 ### Libraries
 
-- [Glicol] - Graph-oriented live coding language and music/audio DSP library written in Rust.
 - [Alda] - A music programming language for musicians.
-- [Megra.rs] - A Rust library for algorithmic music composition.
 - [ATM CLI] - Command line tool for generating and working with MIDI files.
 - [Aubio] - Segmentation, pitch detection, tapping the beat
     and producing midi streams.
@@ -114,6 +112,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Faust] - Functional programming language
     for sound synthesis and audio processing.
 - [FourVoices] - Automatic music generator for four-part writing.
+- [Glicol] - Graph-oriented live coding language and music/audio DSP library written in Rust.
 - [Gwion] - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 - [Houdini Music Toolset] - Adding MIDI functionality to 3D program [Houdini].
 - [Klasma] - Chiptune music composition kit.
@@ -123,6 +122,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Leipzig] - Composition library for Clojure and ClojureScript.
 - [Magenta] - Music and Art Generation with Machine Intelligence.
 - [Magiclock] - Feel MIDI clock beat via the magic trackpad.
+- [Megra.rs] - A Rust library for algorithmic music composition.
 - [meSing.js] - JavaScript singing synthesis library.
 - [Microm] - JavaScript library to convert browser microphone to mp3.
 - [Music Suite] - Haskell based language for describing music.
@@ -222,28 +222,28 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Synthesizers
 
-- [SAW] - A simple synthesizer with a clean UI and straightforward functionality.
-- [Fluctus] - Simple 3-operator FM synthesizer.
-- [Apricot] - Efficient hybrid synthesizer with a massive sound.
-- [Regency] - Multi-tiered phase distortion system.
-- [Integrate] - Old-school virtual analog synthesizer.
 - [Altitude] - Advanced hybrid synthesis workstation.
 - [Amsynth] - Synthesizer with a classic subtractive synthesizer topology.
+- [Apricot] - Efficient hybrid synthesizer with a massive sound.
+- [Fluctus] - Simple 3-operator FM synthesizer.
 - [Helm] - GPL licensed polyphonic synth with lots of modulation.
-- [Surge Synthesizer] - Open source digital synthesizer.
+- [Integrate] - Old-school virtual analog synthesizer.
 - [NSynth Super] - Open source AI synth from the Google Magenta team.
 - [OpenUtau] - Open source vocals synthesis platform.
+- [Regency] - Multi-tiered phase distortion system.
+- [SAW] - A simple synthesizer with a clean UI and straightforward functionality.
+- [Surge Synthesizer] - Open source digital synthesizer.
 - [Yoshimi] - Software audio synthesizer.
 
-[Amsynth]: https://amsynth.github.io
-[Helm]: https://tytel.org/helm/
-[SAW]: https://handmade.network/p/432/saw
-[Fluctus]: https://nakst.gitlab.io/fluctus/
-[Apricot]: https://nakst.gitlab.io/apricot/
-[Regency]: https://nakst.gitlab.io/regency/
 [Altitude]: https://nakst.gitlab.io/altitude/
+[Amsynth]: https://amsynth.github.io
+[Apricot]: https://nakst.gitlab.io/apricot/
+[Fluctus]: https://nakst.gitlab.io/fluctus/
+[Helm]: https://tytel.org/helm/
 [NSynth Super]: https://experiments.withgoogle.com/nsynth-super
 [OpenUtau]: https://www.openutau.com
+[Regency]: https://nakst.gitlab.io/regency/
+[SAW]: https://handmade.network/p/432/saw
 [Surge Synthesizer]:  https://surge-synthesizer.github.io
 [Yoshimi]: https://yoshimi.github.io/
 
@@ -252,12 +252,11 @@ A curated list of software, hardware, and other resources to create music.
 
 - [Agordejo] - Music production session manager.
 - [Auxy] - Modern instruments for mobile creators.
-- [Composer's Sketchpad] - Sequencer that combines musical staff paper
-    with an artist's sketchbook (iOS only).
+- [Composer's Sketchpad] - Sequencer that combines musical staff paper with an artist's sketchbook (iOS only).
 - [Dragonfly Reverb] - Open source audio effects for Linux, macOS, and Windows.
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
-- [JJazzLab] - Easily generate dynamic backing tracks for any song.
 - [IXI Programs] - Apps for creating musical instruments and environments.
+- [JJazzLab] - Easily generate dynamic backing tracks for any song.
 - [Konfyt] - Digital keyboard workstation for Linux.
 - [KXStudio] - Collection of applications and plugins for audio production.
 - [Laborejo] - MIDI sequencer based on classical music notation.
@@ -265,8 +264,8 @@ A curated list of software, hardware, and other resources to create music.
 - [Luna] - MIDI sequencer.
 - [Max] - Visual programming language for music and multimedia creation.
 - [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
-- [Midica] - Music programming language and desktop app for MIDI generation.
 - [MIDI Tapper] - Shape music performances with multi-touch gestures.
+- [Midica] - Music programming language and desktop app for MIDI generation.
 - [Ninjas 2] - Sample slicer audio plugin and standalone app.
 - [Ossia Score] - Sequencer for audio-visual and interactive shows.
 - [Patroneo] - Simple pattern based midi sequencer.
@@ -285,8 +284,8 @@ A curated list of software, hardware, and other resources to create music.
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
 [Fluajho]: https://www.laborejo.org/documentation/fluajho/english.html
-[JJazzLab]: https://www.jjazzlab.com
 [IXI Programs]: http://www.ixi-audio.net/content/software.html
+[JJazzLab]: https://www.jjazzlab.com
 [Konfyt]: https://github.com/noedigcode/konfyt
 [KXStudio]: https://kx.studio
 [Laborejo]: https://www.laborejo.org/laborejo/
@@ -294,8 +293,8 @@ A curated list of software, hardware, and other resources to create music.
 [Luna]: https://github.com/clarityflowers/luna
 [Max]: https://cycling74.com/products/max
 [Melodics]: https://melodics.com
-[Midica]: http://www.midica.org
 [MIDI Tapper]: https://hpi.zentral.zone/miditapper
+[Midica]: http://www.midica.org
 [Ninjas 2]: https://github.com/clearly-broken-software/ninjas2
 [Ossia Score]: https://ossia.io
 [Patroneo]: https://www.laborejo.org/patroneo/
@@ -313,15 +312,11 @@ A curated list of software, hardware, and other resources to create music.
 ### Webapps
 
 - [108] - Minimal beat machine.
-- [Strudel] - Web-based environment for live coding algorithmic patterns.
 - [AI Duet] - A smart piano that responds to you.
 - [Arpeggiator] - Web Audio Arpeggiator.
 - [Audio Motion Interface] - Use smartphone motions to control a synthesizer.
-
-[Strudel]: https://strudel.cc
 - [Baroque Dances] - Procedurally generated classical music.
-- [Beat Push] - Online music production with built-in
-    parallel drum and synth machine.
+- [Beat Push] - Online music production with built-in parallel drum and synth machine.
 - [beatboxer] - Simple drum machine.
 - [BlokDust] - Interactive music-making app to build synths and sounds.
 - [Chords] - Text based chord progression editor.
@@ -339,10 +334,11 @@ A curated list of software, hardware, and other resources to create music.
 - [Looplabs] - Cloud based music studio.
 - [Loudness Penalty] - Check how loud your track is and how much it will be penalised by online streaming services.
 - [mix check studio] - Check your mixes and masters for common issues.
-- [Musical Chord Progression Arpeggiator] -
-    Sketch out musical chord progressions.
+- [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
 - [MyNoise] - Background noises and interactive soundscapes.
 - [Piano Genie] - Machine learning augmented piano app.
+- [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
+- [Qwerkey] - Keyboard tonnetz.
 - [Reactor] - Online DJ controller connected to SoundCloud.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
 - [Roland 50 Studio] - Online playground with emulations of classic Roland devices.
@@ -350,15 +346,13 @@ A curated list of software, hardware, and other resources to create music.
 - [Song Maker] - Simple step sequencer.
 - [Sononym] - Visual sample browser.
 - [Splice] - Music creation and collaboration platform.
+- [Strudel] - Web-based environment for live coding algorithmic patterns.
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
 - [Synth Time] - Simple synthesizer.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
-- [TimeStretch] - Online tool to loop, speed up, slow down,
-    and pitch shift sections of an audio file.
+- [TimeStretch] - Online tool to loop, speed up, slow down, and pitch shift sections of an audio file.
 - [ToneBasic] - Programmatic sound generation in the browser.
 - [Websynths] - Free browser-based microtonal midi instrument.
-- [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
-- [Qwerkey] - Keyboard tonnetz.
 
 [108]: https://martinwecke.de/108/
 [AI Duet]: https://experiments.withgoogle.com/ai-duet
@@ -388,6 +382,8 @@ A curated list of software, hardware, and other resources to create music.
     https://codepen.io/jakealbaugh/pen/qNrZyw
 [MyNoise]: https://mynoise.net/
 [Piano Genie]: https://piano-genie.glitch.me
+[QuasiMusic]: http://www.gregegan.net/APPLETS/34/34.html
+[Qwerkey]: http://some1else.github.io/qwerkey
 [Reactor]: https://lukeandersen.github.io/reactor
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
 [Roland 50 Studio]: https://roland50.studio
@@ -395,14 +391,13 @@ A curated list of software, hardware, and other resources to create music.
 [Song Maker]: https://musiclab.chromeexperiments.com/Song-Maker/
 [Sononym]: https://www.sononym.net
 [Splice]: https://splice.com
+[Strudel]: https://strudel.cc
 [SuperCollider]: https://supercollider.github.io
 [Synth Time]: http://codepen.io/mattgreenberg/pen/gPdqBb
 [Synthi-JS]: http://alexnisnevich.github.io/synthi-js
 [TimeStretch]: https://29a.ch/timestretch/
 [ToneBasic]: https://tonebasic--enchanter.repl.co/
 [Websynths]: http://websynths.com
-[Qwerkey]: http://some1else.github.io/qwerkey
-[QuasiMusic]: http://www.gregegan.net/APPLETS/34/34.html
 
 
 ### Virtual Reality
@@ -435,62 +430,62 @@ A curated list of software, hardware, and other resources to create music.
     to emulate real world hardware.
 - [UkeGeeks] - Creates fingering diagrams by reading plain text
     or ChordPro ukulele songs.
-- [Ukutabs] - Source for ukulele tabs, chords, tips, tools, guides
-- [Ukulele Chord Finder]
 - [Ukulele Chord Detector] - Website for identifying chords
     and showing notes on a fretboard.
+- [Ukulele Chord Finder]
+- [Ukutabs] - Source for ukulele tabs, chords, tips, tools, guides
 
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
 [Guitarix]: https://guitarix.org
 [SmartGuitarAmp]: https://github.com/keyth72/SmartGuitarAmp
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
-[Ukutabs]: https://ukutabs.com
+[Ukulele Chord Detector]: https://ukealong.com/tool/chord-detector/
 [Ukulele Chord Finder]:
     https://frazierpianostudio.com/resources/ukulele-chord-finder/
-[Ukulele Chord Detector]: https://ukealong.com/tool/chord-detector/
+[Ukutabs]: https://ukutabs.com
 
 
 ## Services
 
 ### AI Music Creation
 
-- [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
 - [Humtap]
 - [LAIVE]
+- [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform.
 
-[Omnizart]: https://github.com/Music-and-Culture-Technology-Lab/omnizart
 [Humtap]: https://www.humtap.com
 [LAIVE]: https://www.laive.io
+[Omnizart]: https://github.com/Music-and-Culture-Technology-Lab/omnizart
 [Splash]: https://www.splashmusic.com
 [Suno AI]: https://www.suno.ai
 
 
 ### Music Distribution
 
-- [ReverbNation]
-- [TuneCore]
-- [DittoMusic]
-- [SoundCloud]
-- [Octiive]
+- [Amuse]
 - [BandCamp]
 - [DistroKid]
-- [RecordJet]
-- [Amuse]
+- [DittoMusic]
 - [MDIIO]
+- [Octiive]
+- [RecordJet]
+- [ReverbNation]
+- [SoundCloud]
+- [TuneCore]
 
-[ReverbNation]: https://www.reverbnation.com
-[TuneCore]: https://www.tunecore.com
-[DittoMusic]: https://www.dittomusic.com
-[SoundCloud]: https://artists.soundcloud.com
-[Octiive]: https://www.octiive.com
+[Amuse]: https://amuse.io
 [BandCamp]: https://bandcamp.com
 [DistroKid]: https://distrokid.com
-[RecordJet]: https://www.recordjet.com
-[Amuse]: https://amuse.io
+[DittoMusic]: https://www.dittomusic.com
 [MDIIO]: https://www.wearemdiio.com
+[Octiive]: https://www.octiive.com
+[RecordJet]: https://www.recordjet.com
+[ReverbNation]: https://www.reverbnation.com
+[SoundCloud]: https://artists.soundcloud.com
+[TuneCore]: https://www.tunecore.com
 
 
 ### Music Promotion
@@ -504,17 +499,17 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Sound / Sample Providers
 
+- [BigSoundBank] - 2800+ Free and Royalty Free Sounds
 - [Musical Artifacts] - A place for sharing and preserving sound and music related software, samples, presets and more.
 - [PremiumBeat] - Curated, high-quality music and sound effects.
 - [Soundstripe] - Royalty-free music and sound effects for video.
 - [Splice] - Royalty-free samples, one-shots, loops, MIDI, and presets.
-- [BigSoundBank] - 2800+ Free and Royalty Free Sounds
 
-[PremiumBeat]: https://www.premiumbeat.com
+[BigSoundBank]: https://bigsoundbank.com/
 [Musical Artifacts]: https://musical-artifacts.com/
+[PremiumBeat]: https://www.premiumbeat.com
 [Soundstripe]: https://www.soundstripe.com
 [Splice]: https://splice.com/features/sounds
-[BigSoundBank]: https://bigsoundbank.com/
 
 
 ## Datasets
@@ -585,8 +580,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Open Woodwind Project] - Electronic aerophone.
 - [OpenDeck] - Hardware platform to build custom MIDI controllers.
 - [QuNexus] - Small and portable MPE keyboard.
-- [ROLI Blocks] - Portable snap-together MIDI controller
-    with both desktop and mobile interfaces.
+- [ROLI Blocks] - Portable snap-together MIDI controller with both desktop and mobile interfaces.
 - [Striso] - Expressive MPE controller with a grid-based layout.
 - [XVI Desktop] - USB 16 Channel Fader Bank with CV, I2C, and MIDI.
 
@@ -672,45 +666,45 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Misc
 
-- [Awesome Livecoding] - A curated list of livecoding languages and tools.
 - [Audio Working Group] - Add advanced sound & music synthesis capabilities
     to the Open Web Platform.
+- [Awesome Livecoding] - A curated list of livecoding languages and tools.
 - [Awesome Sheet Music] - Curated list of tools to create,
     edit, and display sheet music.
 - [Awesome WebAudio] - A curated list of awesome WebAudio packages and demos.
 - [Digital Filters Introduction] - Jupyter notebooks
     and a geometric interpretation of digital audio filters.
 - [Frazier Piano Studio] - Blog posts, videos, and apps.
-- [Linux DAW] - Listing of open source audio software for Linux.
-- [SFZ Format] - Main reference for creating instruments with the SFZ format.
 - [Know Your Theory] - Interactive tutorial to learn theory fundamentals.
+- [Linux DAW] - Listing of open source audio software for Linux.
 - [Music Theory] - The exciting universe of music theory.
 - [muted.io] - Interactive music theory tools and visual references.
-- [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
+- [SFZ Format] - Main reference for creating instruments with the SFZ format.
 - [Sound hacking and music technologies]
 - [Music Production Chips] - Community-managed collection of tips & tricks for music production.
+- [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
 
 [Audio Working Group]: https://www.w3.org/2011/audio/
-[Awesome Sheet Music]: https://github.com/ad-si/awesome-sheet-music
 [Awesome Livecoding]: https://github.com/toplap/awesome-livecoding
+[Awesome Sheet Music]: https://github.com/ad-si/awesome-sheet-music
 [Awesome WebAudio]: https://github.com/notthetup/awesome-webaudio
 [Digital Filters Introduction]:
     https://karlhiner.com/jupyter_notebooks/intro_to_digital_filters/
 [Frazier Piano Studio]: https://frazierpianostudio.com
-[Linux DAW]: https://linuxdaw.org/
-[SFZ Format]: https://sfzformat.com
 [Know Your Theory]: https://knowyourtheory.com
+[Linux DAW]: https://linuxdaw.org/
+[Music Production Chips]: https://music-chips.com/
 [Music Theory]: https://ianring.com/musictheory/
 [muted.io]: https://muted.io
-[youtube.com/i_0DXxNeaQ0]: http://youtube.com/watch?v=i_0DXxNeaQ0
+[SFZ Format]: https://sfzformat.com
 [Sound hacking and music technologies]: https://youtu.be/v9uE2nHAGb8
-[Music Production Chips]: https://music-chips.com/
+[youtube.com/i_0DXxNeaQ0]: http://youtube.com/watch?v=i_0DXxNeaQ0
 
 
 ### Articles
 
-- [Detecting piano notes with web audio][detect-notes]
 - [DeepAudioClassification] - Finding the genre of a song with deep learning.
+- [Detecting piano notes with web audio][detect-notes]
 - [Learning Synths] - Learn the basics of using synthesizers.
 - [Modeling Music with algebraic data types][modeling-music]
 - [Musimathics] - The mathematical foundations of music.
