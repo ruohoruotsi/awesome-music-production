@@ -644,7 +644,6 @@ A curated list of software, hardware, and other resources to create music.
 ### Misc
 
 - [Awesome Livecoding] - A curated list of livecoding languages and tools.
-
 - [Audio Working Group] - Add advanced sound & music synthesis capabilities
     to the Open Web Platform.
 - [Awesome Sheet Music] - Curated list of tools to create,
@@ -653,6 +652,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Digital Filters Introduction] - Jupyter notebooks
     and a geometric interpretation of digital audio filters.
 - [Frazier Piano Studio] - Blog posts, videos, and apps.
+- [Linux DAW] - Listing of open source audio software for Linux.
 - [SFZ Format] - Main reference for creating instruments with the SFZ format.
 - [Know Your Theory] - Interactive tutorial to learn theory fundamentals.
 - [Music Theory] - The exciting universe of music theory.
@@ -668,6 +668,7 @@ A curated list of software, hardware, and other resources to create music.
 [Digital Filters Introduction]:
     https://karlhiner.com/jupyter_notebooks/intro_to_digital_filters/
 [Frazier Piano Studio]: https://frazierpianostudio.com
+[Linux DAW]: https://linuxdaw.org/
 [SFZ Format]: https://sfzformat.com
 [Know Your Theory]: https://knowyourtheory.com
 [Music Theory]: https://ianring.com/musictheory/
