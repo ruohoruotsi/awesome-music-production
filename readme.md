@@ -694,6 +694,7 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Research
 
+- [Anticipatory Music Transformer] - Controllable Infilling Model for Music.
 - [Centre for Digital Music] - Research group for music and audio technology.
 - [Guthman Musical Instrument Competition]
 - [Harmony Explained] - Progress towards a scientific theory of music.
@@ -702,6 +703,8 @@ A curated list of software, hardware, and other resources to create music.
 - [Virtual Reality Musical Instruments:
     State of the Art, Design Principles, and Future Directions][VR Instruments]
 
+[Anticipatory Music Transformer]:
+    https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html
 [Centre for Digital Music]: https://c4dm.eecs.qmul.ac.uk
 [Guthman Musical Instrument Competition]: https://guthman.gatech.edu
 [Harmony Explained]: https://arxiv.org/abs/1202.4212v2
