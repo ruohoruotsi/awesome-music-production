@@ -270,6 +270,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Ninjas 2] - Sample slicer audio plugin and standalone app.
 - [Ossia Score] - Sequencer for audio-visual and interactive shows.
 - [Patroneo] - Simple pattern based midi sequencer.
+- [Polyphone] - A soundfont editor for quickly designing musical instruments.
 - [Samplr] - Multi-touch music making app for iPad.
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
@@ -299,6 +300,7 @@ A curated list of software, hardware, and other resources to create music.
 [Ninjas 2]: https://github.com/clearly-broken-software/ninjas2
 [Ossia Score]: https://ossia.io
 [Patroneo]: https://www.laborejo.org/patroneo/
+[Polyphone]: https://www.polyphone-soundfonts.com
 [Samplr]: http://samplr.net
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: http://filter24.org/seq24/
