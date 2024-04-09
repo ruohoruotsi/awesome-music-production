@@ -96,6 +96,7 @@ A curated list of software, hardware, and other resources to create music.
 ### Libraries
 
 - [Alda] - A music programming language for musicians.
+- [Megra.rs] - A Rust library for algorithmic music composition.
 - [ATM CLI] - Command line tool for generating and working with MIDI files.
 - [Aubio] - Segmentation, pitch detection, tapping the beat
     and producing midi streams.
@@ -155,6 +156,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Vivid] - High quality audio in Haskell with SuperCollider.
 
 [Alda]: https://github.com/alda-lang/alda
+[Megra.rs]: https://github.com/the-drunk-coder/megra.rs
 [ATM CLI]: https://github.com/allthemusicllc/atm-cli
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
