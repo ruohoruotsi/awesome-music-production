@@ -44,6 +44,7 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Audio Workstations
 
+- [Helio] - Libre music composition software.
 - [Waveform Pro] - A DAW designed for the needs of modern music producers.
 - [Ableton]
 - [ACID] - A DAW known for its loop-based music creation.
@@ -70,6 +71,7 @@ A curated list of software, hardware, and other resources to create music.
 
 [Ableton]: https://ableton.com/live
 [ACID]: https://www.magix.com/us/music-editing/acid/
+[Helio]: https://helio.fm/
 [FL Studio]: https://www.image-line.com/fl-studio/
 [Ardour]: https://ardour.org
 [Bitwig]: https://www.bitwig.com/
