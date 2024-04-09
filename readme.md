@@ -216,6 +216,7 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Synthesizers
 
+- [Integrate] - Old-school virtual analog synthesizer.
 - [Altitude] - Advanced hybrid synthesis workstation.
 - [Amsynth] - Synthesizer with a classic subtractive synthesizer topology.
 - [Helm] - GPL licensed polyphonic synth with lots of modulation.
