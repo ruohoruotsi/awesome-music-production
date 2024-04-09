@@ -216,6 +216,7 @@ A curated list of software, hardware, and other resources to create music.
 
 ### Synthesizers
 
+- [SAW] - A simple synthesizer with a clean UI and straightforward functionality.
 - [Fluctus] - Simple 3-operator FM synthesizer.
 - [Apricot] - Efficient hybrid synthesizer with a massive sound.
 - [Regency] - Multi-tiered phase distortion system.
@@ -230,6 +231,7 @@ A curated list of software, hardware, and other resources to create music.
 
 [Amsynth]: https://amsynth.github.io
 [Helm]: https://tytel.org/helm/
+[SAW]: https://handmade.network/p/432/saw
 [Fluctus]: https://nakst.gitlab.io/fluctus/
 [Apricot]: https://nakst.gitlab.io/apricot/
 [Regency]: https://nakst.gitlab.io/regency/
