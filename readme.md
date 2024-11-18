@@ -320,6 +320,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Baroque Dances] - Procedurally generated classical music.
 - [Beat Push] - Online music production with built-in parallel drum and synth machine.
 - [beatboxer] - Simple drum machine.
+- [Binary Synth] - Binary file interpreter for audio synthesis.
 - [BlokDust] - Interactive music-making app to build synths and sounds.
 - [Chords] - Text based chord progression editor.
 - [Circle of 5ths Explorer]
@@ -363,6 +364,7 @@ A curated list of software, hardware, and other resources to create music.
 [Baroque Dances]: http://devinrothmusic.com/baroquedances/
 [Beat Push]: https://beatpush.com/
 [beatboxer]: https://sig.gy/beatboxer/
+[Binary Synth]: https://github.com/MaxAlyokhin/binary-synth
 [BlokDust]: https://blokdust.com
 [Chords]: https://github.com/evashort/chords
 [Circle of 5ths Explorer]:
